@@ -1,7 +1,7 @@
 # UDturkic
 Resources for UD Turkic language workshop.
 
-### To-dos for the contributors
+## To-dos for the contributors
 - Translation of the sample sentences into other Turkic languages
 
 
