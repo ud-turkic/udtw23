@@ -2,10 +2,10 @@
 
 Resources for UD Turkic Workshop 2023.
 
-## To-dos for the contributors
+## Current to-dos for the contributors
 
-- Translation of the sample sentences into your assigned Turkic language
-- Setting up a meeting date & time to review the translations
+- Continuing the translations of the sample sentences into your assigned Turkic language
+- Setting up a 2nd meeting date & time to review the translations
 
 ## Notes
 
