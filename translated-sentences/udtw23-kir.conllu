@@ -1,0 +1,23 @@
+# sent_id = 4
+# text = Айша — доктур.
+# text[en] = Ayşe is a doctor.
+
+# sent_id = 6
+# text = Анын таенеси мед айым эле.
+# text[en] = Their grandmother was a nurse.
+
+# sent_id = 17
+# text = Негизинен ал окуганды эмес, сүрөт тартканды жакшы көрөт.
+# text[en] = In general they like to paint, not to read.
+
+# sent_id = 20
+# text = Жаштарды ишке ашпай турган максаттарынан баш тарттырышыбыз керек.
+# text[en] = We must make the young abandon unattainable goals.
+
+# sent_id = 22
+# text = Мугалим китепти мектепке алып барды.
+# text[en] = The teacher took the book to school.
+
+# sent_id = 23
+# text = Мугалим китепти алып мектепке барды.
+# text[en] = The teacher took the book and went to school.
