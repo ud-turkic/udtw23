@@ -5,6 +5,8 @@
 
 This document traces lexical and phrasal elements by Handwörterbuch des Altuigurischen: Altuigurisch–Deutsch–Türkisch (Wilkens, 2021), specifies phonetical elements of Old Turkic script by Universal Dependencies for Old Turkish (Derin & Harada, 2021), and resolves other technicalities by Turkic (Johanson, 2021).
 
+This document replaces personal names with "person named ith person" without any punctuation marks pattern where "i" is the index of the first occurrence of the person's name among the set of people in the sentence.
+
 Adverbs of frequency in this document are: never (0%), rarely (5%), seldom (15%), occasionally (30%), sometimes (50%), often (70%), generally (80%), usually (90%), and always (100%).
 
 == Sentences
@@ -22,16 +24,16 @@ ____
 ==== Old Turkish
 
 Old Turkic script::
-&#x10C16;&#x10C40;&#x10C00;:&#x10C0B;&#x10C03;&#x10C3C;:&#x10C22;&#x10C32;&#x10C03;:
+&#x10C03;&#x10C20;&#x10C1A;&#x10C1A;&#x10C03;&#x10C40;&#x10C03;&#x10C43;&#x10C1E;&#x10C0D;&#x10C1A;&#x10C03;&#x10C40;&#x10C03;:&#x10C0B;&#x10C03;&#x10C3C;:&#x10C22;&#x10C32;&#x10C03;:
 Transliteration::
-ayšä bir ämči
+ilk kiši atlïg kiši bir ämči
 
 [NOTE]
 ====
 * Deletion of overt copula or copular verb in phrasing is only occasionally attested to construct this expression in Old Turkish language.
-* ayšä can not have unambiguous transliteration in Old Turkic script.
+* ilk kiši atlïg kiši substitutes ayšä since ayšä can not have unambiguous transliteration in Old Turkic script.
 * ämči can not have unambiguous transliteration in Old Turkic script.
-* ämči substitutes "doktor" due to relative affinity to physician or surgeon rather than herbalist in comparison to otačï.
+* ämči substitutes doktor due to relative affinity to physician or surgeon rather than herbalist in comparison to otačï.
 ====
 
 ==== Morphosyntactically Relevant Attestations
