@@ -3,7 +3,7 @@
 
 == Conventions
 
-This document traces lexical and phrasal elements by Handwörterbuch des Altuigurischen: Altuigurisch–Deutsch–Türkisch (Wilkens, 2021), specifies phonetical elements of Old Turkic script by Universal Dependencies for Old Turkish (Derin & Harada, 2021), and resolves other technicalities by Turkic (Johanson, 2021).
+This document traces lexical and phrasal elements by Handwörterbuch des Altuigurischen: Altuigurisch–Deutsch–Türkisch (Wilkens, 2021), specifies phonetical elements of Old Turkic script by Universal Dependencies for Old Turkish (Derin & Harada, 2021), and resolves other technicalities including Latin-based transcription by Turkic (Johanson, 2021).
 
 This document replaces personal names with "person named ith person" without any punctuation marks pattern where "i" is the index of the first occurrence of the person's name among the set of people in the sentence.
 
