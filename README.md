@@ -4,7 +4,7 @@ Resources for UD Turkic Workshop 2023.
 
 ## Current to-dos for the contributors
 
-- Continuing the translations of the sample sentences into your assigned Turkic language
+- Continuing the translations of [the sample sentences](https://github.com/ud-turkic/udtw23/wiki/initial-20-turkish-sentences) into your assigned Turkic language
 - Setting up a 2nd meeting date & time to review the translations
 
 ## Notes
