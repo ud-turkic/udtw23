@@ -16,7 +16,7 @@ Adverbs of frequency in this document are: never (0%), rarely (5%), seldom (15%)
 ==== Original
 
 .Turkish
-[quote, glossed_sentences.pdf]
+[quote, glossed_sentences.pdf commit: d7b4334]
 ____
 Ayşe bir doktor.
 ____
