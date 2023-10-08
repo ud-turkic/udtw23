@@ -27,6 +27,10 @@
 # text = Дүкөндө жемиш бар, бирок жакшы эмес.
 # text[en] = There's fruit at the store, but it's not nice.
 
+# sent_id = 10
+# text = Дениз доктур болот, билип кой!
+# text[en] = Deniz will be a doctor, know this!
+
 # sent_id = 11
 # text = Дениз уктап калган эле.
 # text[en] = Deniz had fallen asleep.
