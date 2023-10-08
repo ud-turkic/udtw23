@@ -19,7 +19,7 @@ Resources for UD Turkic Workshop 2023.
     - Gulnura Jumalieva
     - Aida Kasieva
     - Jonathan Washington
-- Old Turkish
+- Old Turkish (SIL ISO 639-3: otk)
     - Mehmet Oguz Derin
 - Sakha (Yakut)
     - Sardana Ivanova
