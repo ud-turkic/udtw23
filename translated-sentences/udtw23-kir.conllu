@@ -47,6 +47,15 @@
 # text = Натыйжалар жарыяланыптыр да, э?
 # text[en] = The results have been announced, haven't they?
 
+# sent_id = 16
+# text = Айша бул китепти окуган эмес.
+# text[en] = It is not the case that Ayşe has read this book.
+
+# sent_id = 16B
+# text = Айша бул китепти окубай койгон жок.
+# text[en] = Ayşe didn't not read this book.
+# text[tr] = Ayşe bu kitabı okumamış değil.
+
 # sent_id = 17
 # text = Негизинен ал окуганды эмес, сүрөт тартканды жакшы көрөт.
 # text[en] = In general they like to paint, not to read.
@@ -60,7 +69,7 @@
 # text[en] = The blue one of these is prettier, could you give me the blue one?
 
 # sent_id = 20
-# text = Жаштарды ишке ашпай турган максаттарынан баш тарттырышыбыз керек.
+# text = Жаштарды ишке ашырылбас максаттарынан баш тарттырышыбыз керек.
 # text[en] = We must make the young abandon unattainable goals.
 
 # sent_id = 21A
