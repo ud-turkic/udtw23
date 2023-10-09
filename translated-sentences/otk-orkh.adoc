@@ -5,9 +5,11 @@
 
 This document traces lexical and phrasal elements by Handwörterbuch des Altuigurischen: Altuigurisch–Deutsch–Türkisch (Wilkens, 2021), specifies phonetical elements of Old Turkic script by Universal Dependencies for Old Turkish (Derin & Harada, 2021), and resolves other technicalities including Latin-based transcription by Turkic (Johanson, 2021).
 
-This document replaces personal names with "person named ith person" without any punctuation marks pattern where "i" is the index of the first occurrence of the person's name among the set of people in the sentence.
-
 Adverbs of frequency in this document are: never (0%), rarely (5%), seldom (15%), occasionally (30%), sometimes (50%), often (70%), generally (80%), usually (90%), and always (100%).
+
+=== Conventions for Proper Nouns
+
+This document might rename specific proper nouns with visible patterns using ordinal numbers. Personal names would substitute with the "person named ith person" pattern without any punctuation marks, where "i" is the index of the first occurrence of the person's name among the set of people in the sentence.
 
 == Sentences
 
@@ -31,7 +33,7 @@ ilk kiši atlïg kiši bir ämči
 [NOTE]
 ====
 * Deletion of overt copula or copular verb in phrasing is only occasionally attested to construct this expression in Old Turkish language.
-* ilk kiši atlïg kiši substitutes ayšä since ayšä can not have unambiguous transliteration in Old Turkic script.
+* ilk kiši atlïg kiši substitutes ayšä due to <<conventions-for-proper-nouns>>.
 * ämči can not have unambiguous transliteration in Old Turkic script.
 * ämči substitutes doktor due to relative affinity to physician or surgeon rather than herbalist in comparison to otačï.
 ====
