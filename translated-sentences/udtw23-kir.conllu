@@ -75,19 +75,36 @@
 # sent_id = 20
 # text = Жаштарды ишке ашырылбас максаттарынан баш тарттырышыбыз керек.
 # text[en] = We must make the young abandon unattainable goals.
+1	Жаштарды	жаш	ADJ	adj.subst.pl.acc	Case=Acc|Number=Plur	6	obj	_	_
+2	ишке	иш	NOUN	n.dat	Case=Dat	3	obl	_	_
+3	ашырылбас	аш	VERB	v.iv.caus.pass.neg.gpr_fut	Polarity=Neg|Tense=Fut|VerbForm=Part|Voice=Cau|Voice=Pass	4	acl	_	_
+4	максаттарынан	максат	NOUN	n.pl.px3sp.abl	Case=Abl|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
+5	баш	баш	NOUN	n.acc-ind	_	6	obj	_	_
+6	тарттырышыбыз	тарт	VERB	v.tv.caus.ger_pres.px1pl.nom	Case=Nom|Number[psor]=Plur|Person[psor]=1|VerbForm=Ger|Voice=Cau	7	csubj	_	_
+7-8	керек	_	_	_	_	_	_	_	_
+7	керек	керек	ADJ	adj	_	0	root	_	SpaceAfter=No
+8	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	7	cop	_	_
+9	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = 21A
 # text = Мугалим китепти алып мектепке кетти.
 # text[en] = The teacher took the book and left for school.
 # text[tr] = Öğretmen kitabı alıp okula gitti.
+1	Мугалим	мугалим	NOUN	n.nom	Case=Nom	5	nsubj	_	_
+2	китепти	китеп	NOUN	n.acc	Case=Acc	3	obj	_	_
+3	алып	ал	VERB	v.tv.gna_perf	Aspect=Perf|VerbForm=Conv	5	advcl	_	_
+4	мектепке	мектеп	NOUN	n.dat	Case=Dat	5	obl	_	_
+5	кетти	кет	VERB	v.iv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	sent	_	5	punct	_	_
 
 # sent_id = 21B
 # text = Мугалим китепти мектепке алып кетти.
 # text[en] = The teacher took the book to school.
 # text[tr] = Öğretmen kitabı okula götürdü.
-1	Мугалим	мугалим	NOUN	n	_	5	nsubj	_	nom
-2	китепти	китеп	NOUN	n	_	5	obj	_	acc
-3	мектепке	мектеп	NOUN	n	_	5	obl	_	dat
-4	алып	ал	VERB	v	_	5	compound:lvc	_	gna_perf
-5	кетти	кет	VERB	v	_	0	root	_	tv|ifi|p3|sg
+1	Мугалим	мугалим	NOUN	n.nom	Case=Nom	5	nsubj	_	_
+2	китепти	китеп	NOUN	n.acc	Case=Acc	5	obj	_	_
+3	мектепке	мектеп	NOUN	n.dat	Case=Dat	5	obl	_	_
+4	алып	ал	VERB	v.tv.gna_perf	Aspect=Perf|VerbForm=Conv	5	compound:svc	_	_
+5	кетти	кет	VERB	v.tv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	sent	_	5	punct	_	_
+
