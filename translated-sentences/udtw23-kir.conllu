@@ -85,3 +85,9 @@
 # text = Мугалим китепти мектепке алып кетти.
 # text[en] = The teacher took the book to school.
 # text[tr] = Öğretmen kitabı okula götürdü.
+1	Мугалим	мугалим	NOUN	n	_	5	nsubj	_	nom
+2	китепти	китеп	NOUN	n	_	5	obj	_	acc
+3	мектепке	мектеп	NOUN	n	_	5	obl	_	dat
+4	алып	ал	VERB	v	_	5	compound:lvc	_	gna_perf
+5	кетти	кет	VERB	v	_	0	root	_	tv|ifi|p3|sg
+6	.	.	PUNCT	sent	_	5	punct	_	_
