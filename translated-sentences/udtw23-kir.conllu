@@ -1,18 +1,22 @@
 # sent_id = 1B
-# text = 
-# text[en] = My spouse cleaned the windows of the children's room at the summer house, but didn't clean the kitchen's.
+# text = Жубайым дачадагы балдар бөлмөсүнүн терезесин шаша-буша тазалап, ашкананыкын тазалабай коюптур.
+# text[en] = My spouse cleaned the windows of the children's room at the summer house hastily, but didn't clean the kitchen's.
 # text[tr] = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
 
 # sent_id = 2
 # text = Мен сага дайыма айтам, күндө эртең менен досуң менен телефондо сүйлөшкөндө мен жөнүндө сөз кылба.
 # text[en] = I always tell you, when you talk with your friend on the phone in the morning, don't talk about me.
 
+# sent_id = 3
+# text = Түнөп калчу конок эшикти такылдатыптыр, бирок үйдүн ээси дагы эле үйдү жыйнап жаткан, ал эми ал буюртма берген тамак ресторандан келмек болчу.
+# text[en] = The guest that was going to stay for the night knocked on the door, but the owner of the house was still cleaning, and the food he had ordered was still coming from the restaurant.
+
 # sent_id = 4
 # text = Айша — доктур.
 # text[en] = Ayşe is a doctor.
 
 # sent_id = 5
-# text = Биз чеччү көйгөй – китеп текчесинде беш китептик да орун жоктугу.
+# text = Биз чечүүчү көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
 # text[en] = The problem we're trying to solve is that the bookshelf doesn't have room for even five books.
 
 # sent_id = 6
@@ -22,6 +26,10 @@
 # sent_id = 7
 # text = Макул, анда китеп текчесиндегилер кайда эле?
 # text[en] = Okay, then where are/were the ones on the bookshelf?
+
+# sent_id = 8
+# text = Суде үч саат бою кеңседе болгон жок, Айша да үйдө болгон эмес экен.
+# text[en] = Sude wasn't in the office for a period of three hours, and Ayşe also wasn't at home.
 
 # sent_id = 9
 # text = Дүкөндө жемиш бар, бирок жакшы эмес.
@@ -36,8 +44,8 @@
 # text[en] = Deniz had fallen asleep.
 
 # sent_id = 12
-# text = Чогулуш болору айтылып жатканда ал ушунчалык таң калгандыктан окшойт, мени карап эле калды.
-# text[en] = They must've been so surprised as it was being announced that there would be a meeting that they ~started looking at me.
+# text = Чогулуш боло тургандыгы айтылып жаткан учурда, ал ушунчалык таң калгандыктан окшойт, мени караган бойдон калды.
+# text[en] = When it was being announced that there would be a meeting they must've been so surprised that they were left looking at me.
 
 # sent_id = 13
 # text = Кардиганым үйдө бекен?
@@ -75,19 +83,35 @@
 # sent_id = 20
 # text = Жаштарды ишке ашырылбас максаттарынан баш тарттырышыбыз керек.
 # text[en] = We must make the young abandon unattainable goals.
+1	Жаштарды	жаш	ADJ	adj.subst.pl.acc	Case=Acc|Number=Plur	6	obj	_	_
+2	ишке	иш	NOUN	n.dat	Case=Dat	3	obl	_	_
+3	ашырылбас	аш	VERB	v.iv.caus.pass.neg.gpr_fut	Polarity=Neg|Tense=Fut|VerbForm=Part|Voice=Cau|Voice=Pass	4	acl	_	_
+4	максаттарынан	максат	NOUN	n.pl.px3sp.abl	Case=Abl|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
+5	баш	баш	NOUN	n.acc-ind	_	6	obj	_	_
+6	тарттырышыбыз	тарт	VERB	v.tv.caus.ger_pres.px1pl.nom	Case=Nom|Number[psor]=Plur|Person[psor]=1|VerbForm=Ger|Voice=Cau	7	csubj	_	_
+7-8	керек	_	_	_	_	_	_	_	_
+7	керек	керек	ADJ	adj	_	0	root	_	SpaceAfter=No
+8	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	7	cop	_	_
+9	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = 21A
 # text = Мугалим китепти алып мектепке кетти.
 # text[en] = The teacher took the book and left for school.
 # text[tr] = Öğretmen kitabı alıp okula gitti.
+1	Мугалим	мугалим	NOUN	n.nom	Case=Nom	5	nsubj	_	_
+2	китепти	китеп	NOUN	n.acc	Case=Acc	3	obj	_	_
+3	алып	ал	VERB	v.tv.gna_perf	Aspect=Perf|VerbForm=Conv	5	advcl	_	_
+4	мектепке	мектеп	NOUN	n.dat	Case=Dat	5	obl	_	_
+5	кетти	кет	VERB	v.iv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	sent	_	5	punct	_	_
 
 # sent_id = 21B
 # text = Мугалим китепти мектепке алып кетти.
 # text[en] = The teacher took the book to school.
 # text[tr] = Öğretmen kitabı okula götürdü.
-1	Мугалим	мугалим	NOUN	n	_	5	nsubj	_	nom
-2	китепти	китеп	NOUN	n	_	5	obj	_	acc
-3	мектепке	мектеп	NOUN	n	_	5	obl	_	dat
-4	алып	ал	VERB	v	_	5	compound:lvc	_	gna_perf
-5	кетти	кет	VERB	v	_	0	root	_	tv|ifi|p3|sg
+1	Мугалим	мугалим	NOUN	n.nom	Case=Nom	5	nsubj	_	_
+2	китепти	китеп	NOUN	n.acc	Case=Acc	5	obj	_	_
+3	мектепке	мектеп	NOUN	n.dat	Case=Dat	5	obl	_	_
+4	алып	ал	VERB	v.tv.gna_perf	Aspect=Perf|VerbForm=Conv	5	compound:svc	_	_
+5	кетти	кет	VERB	v.tv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	sent	_	5	punct	_	_
