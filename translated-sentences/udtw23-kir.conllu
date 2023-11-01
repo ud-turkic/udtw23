@@ -2,10 +2,43 @@
 # text = Жубайым дачадагы балдар бөлмөсүнүн терезесин шаша-буша тазалап, ашкананыкын тазалабай коюптур.
 # text[en] = My spouse cleaned the windows of the children's room at the summer house hastily, but didn't clean the kitchen's.
 # text[tr] = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
+1	Жубайым	жубай	NOUN	n.px1sg.nom	Case=Nom|Number[psor]=Sing|Person[psor]=1	13	advcl	_	_
+2	дачадагы	дача	NOUN	n.loc.attr	Case=Loc|Case=Nom	3	nmod:loc	_	_
+3	балдар	бала	NOUN	n.pl.nom	Case=Nom|Number=Plur	4	nmod:poss	_	_
+4	бөлмөсүнүн	бөлмө	NOUN	n.px3sp.gen	Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3	5	nmod:poss	_	_
+5	терезесин	терезе	NOUN	n.px3sp.acc	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	9	obj	_	_
+6	шаша	шаш	VERB	v.iv.gna_impf	Aspect=Imp|VerbForm=Conv	9	advcl	_	SpaceAfter=No
+7	-	-	PUNCT	guio	_	6	punct	_	SpaceAfter=No
+8	буша	буш	VERB	v.iv.gna_impf	Aspect=Imp|VerbForm=Conv	6	fixed	_	_
+9	тазалап	тазала	VERB	v.tv.gna_perf	Aspect=Perf|VerbForm=Conv	13	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	cm	_	12	punct	_	_
+11-12	ашкананыкын	_	_	_	_	_	_	_	_
+11	ашкананы	ашкана	NOUN	n.gen	Case=Gen	12	nmod:poss	_	SpaceAfter=No
+12	кын	_	NOUN	n.acc	Case=Acc	13	obj	_	SpaceAfter=No
+13	тазалабай	тазала	VERB	v.tv.neg.prc_perf	Aspect=Perf|Polarity=Neg|VerbForm=Cov	0	root	_	_
+14	коюптур	кой	AUX	vaux.ifi.evid.p3.sg	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	sent	_	13	punct	_	_
 
 # sent_id = 2
 # text = Мен сага дайыма айтам, күндө эртең менен досуң менен телефондо сүйлөшкөндө мен жөнүндө сөз кылба.
 # text[en] = I always tell you, when you talk with your friend on the phone in the morning, don't talk about me.
+1	Мен	мен	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	сага	сен	PRON	prn.pers.p2.sg.dat	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+3	дайыма	дайыма	ADV	adv	_	4	advmod	_	_
+4	айтам	айт	VERB	v.iv.aor.p1.sg	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	cm	_	4	punct	_	_
+6	күндө	күн	NOUN	n.loc	Case=Loc	12	obl	_	_
+7	эртең	эртең	ADV	adv	_	12	advmod	_	_
+8	менен	менен	ADP	post	_	7	fixed	_	_
+9	досуң	дос	NOUN	n.px2sg.nom	Case=Nom|Number[psor]=Sing|Person[psor]=2	12	obl	_	_
+10	менен	менен	CCONJ	cnjcoo	_	9	case	_	_
+11	телефондо	телефон	NOUN	n.loc	Case=Loc	12	obl	_	_
+12	сүйлөшкөндө	сүйлө	VERB	v.iv.coop.ger_past.loc	Case=Loc|Tense=Past|VerbForm=Ger|Voice=Coop	16	advcl	_	_
+13	мен	мен	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
+14	жөнүндө	жөнүндө	ADP	post	_	13	case	_	_
+15	сөз	сөз	ADP	post	_	16	compound:lvc	_	_
+16	кылба	кыл	VERB	v.tv.neg.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	4	ccomp	_	SpaceAfter=No
+17	.	.	PUNCT	sent	_	4	punct	_	_
 
 # sent_id = 3
 # text = Түнөп калчу конок эшикти такылдатыптыр, бирок үйдүн ээси дагы эле үйдү жыйнап жаткан, ал эми ал буюртма берген тамак ресторандан келмек болчу.
@@ -26,18 +59,20 @@
 # sent_id = 7
 # text = Макул, анда китеп текчесиндегилер кайда эле?
 # text[en] = Okay, then where are/were the ones on the bookshelf?
+1	Макул	Макул	INTJ	ij	_	7	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	cm	_	7	punct	_	_
+3	анда	анда	ADV	adv	_	7	advmod	_	_
+4	китеп	китеп	NOUN	n.nom	Case=Nom	5	nmod:poss	_	_
+5-6	текчесиндегилер	_	_	_	_	_	_	_	_
+5	текчесиндеги	текче	NOUN	n.px3sp.loc.attr	Case=Loc|Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	nmod:loc	_	SpaceAfter=No
+6	лер	_	NOUN	n.nom.pl	Case=Nom|Number=Plur	7	nsubj	_	_
+7	кайда	кайда	ADV	adv	_	0	root	_	_
+8	эле	эле	AUX	cop.ifi.p3.pl	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No
+9	?	?	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = 8
 # text = Суде үч саат бою кеңседе болгон жок, Айша да үйдө болгон эмес экен.
 # text[en] = Sude wasn't in the office for a period of three hours, and Ayşe also wasn't at home.
-
-# sent_id = 9
-# text = Дүкөндө жемиш бар, бирок жакшы эмес.
-# text[en] = There's fruit at the store, but it's not nice.
-
-# sent_id = 10
-# text = Дениз доктур болот, билип кой!
-# text[en] = Deniz will be a doctor, know this!
 
 # sent_id = 11
 # text = Дениз уктап калган эле.
@@ -56,8 +91,14 @@
 # text[en] = Is the event being held today?
 
 # sent_id = 15
-# text = Натыйжалар жарыяланыптыр да, э?
+# text = Натыйжалар жарыяланыптыр да, ээ?
 # text[en] = The results have been announced, haven't they?
+1	Натыйжалар	натыйжа	NOUN	n.pl.nom	Case=Nom|Number=Plur	2	nsubj	_	_
+2	жарыяланыптыр	жарыяла	VERB	v.tv.pass.ifi.evid.p3.pl	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	да	да	PART	mod	_	2	discourse	_	SpaceAfter=No
+4	,	,	PUNCT	cm	_	2	punct	_	_
+5	ээ	ээ	PART	mod	_	2	discourse	_	SpaceAfter=No
+6	?	?	PUNCT	sent	_	2	punct	_	_
 
 # sent_id = 16
 # text = Айша бул китепти окуган эмес.
@@ -91,7 +132,7 @@
 6	тарттырышыбыз	тарт	VERB	v.tv.caus.ger_pres.px1pl.nom	Case=Nom|Number[psor]=Plur|Person[psor]=1|VerbForm=Ger|Voice=Cau	7	csubj	_	_
 7-8	керек	_	_	_	_	_	_	_	_
 7	керек	керек	ADJ	adj	_	0	root	_	SpaceAfter=No
-8	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	7	cop	_	_
+8	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	7	cop	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	7	punct	_	_
 
 # sent_id = 21A
@@ -102,7 +143,7 @@
 2	китепти	китеп	NOUN	n.acc	Case=Acc	3	obj	_	_
 3	алып	ал	VERB	v.tv.gna_perf	Aspect=Perf|VerbForm=Conv	5	advcl	_	_
 4	мектепке	мектеп	NOUN	n.dat	Case=Dat	5	obl	_	_
-5	кетти	кет	VERB	v.iv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	кетти	кет	VERB	v.iv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sent	_	5	punct	_	_
 
 # sent_id = 21B
@@ -113,5 +154,6 @@
 2	китепти	китеп	NOUN	n.acc	Case=Acc	5	obj	_	_
 3	мектепке	мектеп	NOUN	n.dat	Case=Dat	5	obl	_	_
 4	алып	ал	VERB	v.tv.gna_perf	Aspect=Perf|VerbForm=Conv	5	compound:svc	_	_
-5	кетти	кет	VERB	v.tv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	кетти	кет	VERB	v.tv.ifi.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sent	_	5	punct	_	_
+
