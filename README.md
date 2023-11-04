@@ -10,6 +10,11 @@ Resources for UD Turkic Workshop 2023.
 ## 3rd meeting
 
 - Agenda: Discussing problems that occurred during annotations
+- Date and time: Nov 12 15:00 UTC+3
+- Place:
+    - Zoom link: https://zoom.us/j/94784185477
+    - Meeting ID: 947 8418 5477
+    - Passcode: 985109
 
 ## Language list with corresponding contributors
 
