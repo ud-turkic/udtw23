@@ -6,7 +6,10 @@ Resources for UD Turkic Workshop 2023.
 
 - Finishing the translations of [the sample sentences](https://github.com/ud-turkic/udtw23/wiki/initial-20-turkish-sentences) into your assigned Turkic language
 - Annotating the sets of sentences
-- Setting up a 3rd meeting date & time to discuss problems that occurred during annotations: [scheduling link](https://www.when2meet.com/?22048579-K3c2c)
+
+## 3rd meeting
+
+- Agenda: Discussing problems that occurred during annotations
 
 ## Language list with corresponding contributors
 
