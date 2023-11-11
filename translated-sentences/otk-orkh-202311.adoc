@@ -1,5 +1,7 @@
-= UDTW23 Translated Sentences for Old Turkish language (otk) and Old Turkic script (orkh)
+= Partial Document 202311 of UDTW23 Translated Sentences for Old Turkish language (otk) and Old Turkic script (orkh)
 :toc:
+
+NOTE: This document, titled "UDTW23 Translated Sentences for Old Turkish language (otk) and Old Turkic script (orkh)," is designated with version "202311" to be partial and will no longer receive updates. Any future work or modifications related to the subject matter of this document, particularly authoring for the language and script pair of Old Turkish and Old Turkic, should be pursued by creating a separate document. This approach ensures the content remains consistent and historically accurate as of its last update.
 
 == Conventions
 
