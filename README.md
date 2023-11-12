@@ -10,7 +10,7 @@ Resources for UD Turkic Workshop 2023.
 ## 3rd meeting
 
 - Agenda: Discussing problems that occurred during annotations
-- Date and time: Nov 12 15:00 UTC+3
+- Date and time: Nov 12 15:00 UTC+3 [rescheduling currently: [here](https://www.when2meet.com/?22343317-4nLT5)]
 - Place:
     - Zoom link: https://zoom.us/j/94784185477
     - Meeting ID: 947 8418 5477
