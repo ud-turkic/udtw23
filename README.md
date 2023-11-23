@@ -1,16 +1,16 @@
 # udtw23
 
-Resources for UD Turkic Workshop 2023.
+Resources from the 2023 UD Turkic Workshop, held on September 8 in Istanbul, Turkey.
 
 ## Current to-dos for the contributors
 
 - Finishing the translations of [the sample sentences](https://github.com/ud-turkic/udtw23/wiki/initial-20-turkish-sentences) into your assigned Turkic language
 - Annotating the sets of sentences
 
-## 3rd meeting
+## 4th meeting
 
-- Agenda: Discussing problems that occurred during annotations
-- Date and time: Nov 18 18:00 UTC+3
+- Agenda: Discussing problems further that occurred during annotations
+- Date and time: to be determined.
 - Place:
     - Zoom link: https://zoom.us/j/94784185477
     - Meeting ID: 947 8418 5477
