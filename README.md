@@ -23,7 +23,7 @@ Resources from the 2023 UD Turkic Workshop, held on September 8 in Istanbul, Tur
 - Azerbaijani
     - Soudabeh Eslami
 - Kumyk
-    - Aydemir Shams
+    - Aydemir Shamsutdinov
 - Kyrgyz
     - Bermet Chontaeva
     - Gulnura Jumalieva
