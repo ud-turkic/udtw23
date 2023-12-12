@@ -12,7 +12,7 @@ Resources from the 2023 UD Turkic Workshop, held on September 8 in Istanbul, Tur
 - Agenda:
     - Discussing problems further that occurred during annotations, and translations;
     - 2nd UniDive General Meeting (7–9 Feb) Submission and Presentation
-- Date and time: to be determined. [Scheduling link](https://www.when2meet.com/?22656659-eV5nZ)
+- Date and time: Dec 23 (Saturday) at 15:00 UTC+3
 - Place:
     - Zoom link: https://zoom.us/j/94784185477
     - Meeting ID: 947 8418 5477
