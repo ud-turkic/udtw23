@@ -70,6 +70,12 @@
 # sent_id = 4
 # text = Айша — доктур.
 # text[en] = Ayşe is a doctor.
+1	Айша	Айша	PROPN	np.ant.f.nom	Case=Nom|Gender=Fem	3	nsubj	_	_
+2	—	—	PUNCT	guio	_	1	punct	_	_
+3-4	доктур	_	_	_	_	_	_	_	_
+3	доктур	доктур	NOUN	n.nom	Case=Nom	0	root	_	SpaceAfter=No
+4	э	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	3	cop	_	SpaceAfter=No
+5	.	.	PUNCT	sent	_	3	punct	_	_
 
 # sent_id = 5
 # text = Биз чечүүчү көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
