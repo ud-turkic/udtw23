@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Previously Selected Sentences
+title: Sentences
 url: sents/
 ---
 
 ## Previously Selected Sentences
+
+For an up-to-date list for glosses, please see [sentences.pdf](sentences.pdf).
 
 - Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
 - Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
