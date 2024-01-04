@@ -9,8 +9,8 @@ description: > # ignore newlines until "baseurl:"
   This is the webpage of the workshop on Universal Dependencies
   annotation standards and practices for the Turkic Languages
   held in conjunction with the UniDive WG3 meeting in Istanbul.
-baseurl: "/ud-turkic-workshop"
-github_username: coltekin
+baseurl: "/udtw23"
+github_username: ud-turkic
 encoding: utf-8
 future: true
 

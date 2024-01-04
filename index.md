@@ -57,19 +57,34 @@ Friday, 8 September
 - 08:45-09:00 - Opening remarks - Büşra Marşan, Çağrı Çöltekin
 - 09:00-10:30 - Presentations
     - 09:00:09:20 - Turkish GB treebank - Çağrı Çöltekin
+      [[abstract](Submissions/1 - Turkish GB treebank, Coltekin.pdf),
+       [presentation](presentations/gb-sagt.pdf)]
     - 09:20-09:40 - Parallel Perspectives: ATIS Dependency Treebanks in English and Turkish - Aslı Kuzgun, Olcay Taner Yıldız, Mehmet Köse and Neslihan Cesur
+      [[abstract](Submissions/2 - Parallel Perspectives, Kuzgun et al.pdf),
+       [presentation](presentations/Atis_09.20.pdf)]
     - 09:40-10:00 - Journey of TreeBanking - Olcay Taner Yildiz, Aslı Kuzgun, Neslihan Cesur, Bilge Nas Arıcan, Büşra Marşan, Neslihan Kara, Oğuzhan Kuyrukçu, Ezgi Sanıyar, Merve Özçelik, Arife Betül Yenice and Deniz Baran Aslan
+      [[abstract](Submissions/3 - Journey of TreeBanking, Yildiz et al.pdf),
+       [presentation](presentations/Starlang-treebanks.pdf)]
     - 10:00-10:20 - BOUN Treebank v2.11 - Büşra Marşan, Furkan Akkurt, Tunga Güngör, Balkız Öztürk and Suzan Üsküdarlı
+      [[abstract](Submissions/4 - BOUN Treebank v2.11, Marşan et al.pdf),
+       [presentation](presentations/BOUN-Treebank-v2.11.pdf)]
 - 10:30-11:00 - _Coffee break_
 - 11:00-12:30 - Presentations and Introduction to the afternoon session
     - 11:00-11:20 - Contextualizing the Present and Future of Old Turkish Annotation within Universal Dependencies for Turkic Languages - Mehmet Oguz Derin
+      [[abstract](Submissions/5 - Contextualizing the Present and Future of Old Turkish Annotation within Universal Dependencies for Turkic Languages, Derin.pdf),
+       [presentation](presentations/ud-20230908-turkic.pdf)]
     - 11:20-11:40 - Annotation issues in UD-Turkish - Büşra Marşan, Çağrı Çöltekin
-    - 11:40-12:00 - Introduction to an annotation tool for UD treebanks (BoAT) - Büşra Marşan, Furkan Akkurt
+      [[presentation](presentations/issues-overview.pdf)]
+    - 11:40-12:00 - Introduction to an annotation tool for UD treebanks ([BoAT](https://github.com/boun-tabi/BoAT)) - Büşra Marşan, Furkan Akkurt
     - 12:00-12:30 - How to proceed in discussions
 - 12:30-14:00 - _Lunch break_
 - 14:00-15:30 - Discussion and Presentations
     - 14:00-14:20 - UD-Tatar NMCTT Treebank: Issues in annotation across Turkic - Chihiro Taguchi
+      [[abstract](Submissions/7 - UD-Tatar NMCTT Treebank, Taguchi.pdf),
+       [presentation](presentations/UDTurkic2023_Slides.pdf)]
     - 14:20-14:40 - Towards a UD treebank for Kyrgyz - Aida Kasieva, Gulnura Dzhumalieva, Anna Thompson and Jonathan Washington
+      [[abstract](Submissions/8 - Towards a UD treebank for Kyrgyz, Kasieva et al.pdf),
+       [presentation](https://jonorthwash.github.io/2023-KyrgyzUD-presentation/presentation.html)]
     - 14:40-15:30 - Discussion on annotation issues
 - 15:30-16:00 - _Coffee break_
 - 16:00-17:30 - Discussion and Wrap-up
@@ -80,8 +95,8 @@ Friday, 8 September
 
 - [Çağrı Çöltekin](http://coltekin.net/cagri/), [University of Tübingen](https://uni-tuebingen.de/en/)
 - [Büşra Marşan](https://busramarsan.com/), [Boğaziçi University](https://boun.edu.tr/)
-- [Suzan Üsküdarlı](https://uskudarli.gitlab.io/uskudarli-academic/), Boğaziçi University
-- [Tunga Güngör](https://cmpe.boun.edu.tr/~gungort/), Boğaziçi University
-- [Furkan Akkurt](https://furkanakkurt1335.github.io/), Boğaziçi University
+- [Suzan Üsküdarlı](https://uskudarli.gitlab.io/uskudarli-academic/), [Boğaziçi University](https://boun.edu.tr/)
+- [Tunga Güngör](https://cmpe.boun.edu.tr/~gungort/), [Boğaziçi University](https://boun.edu.tr/)
+- [Furkan Akkurt](https://furkanakkurt1335.github.io/), [Boğaziçi University](https://boun.edu.tr/)
 
 Contact point for questions / help: <tt>[udtw-organisers@googlegroups.com](mailto:udtw-organisers@googlegroups.com)</tt>
