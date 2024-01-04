@@ -1,0 +1,215 @@
+# sent_id = 1
+# text = Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.
+1	Bizimki	Bizimki	_	_	_	_	_	_	_
+2	yazlıktaki	yazlıktaki	_	_	_	_	_	_	_
+3	çocuk	çocuk	_	_	_	_	_	_	_
+4	odasını	odasını	_	_	_	_	_	_	_
+5	apar	apar	_	_	_	_	_	_	_
+6	topar	topar	_	_	_	_	_	_	_
+7	derleyip	derleyip	_	_	_	_	_	_	_
+8	toplamış	toplamış	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	mutfağın	mutfağın	_	_	_	_	_	_	_
+11	masasını	masasını	_	_	_	_	_	_	_
+12	da	da	_	_	_	_	_	_	_
+13	elden	elden	_	_	_	_	_	_	_
+14	çıkarmıştı	çıkarmıştı	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2
+# text = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
+1	Sana	Sana	_	_	_	_	_	_	_
+2	bunu	bunu	_	_	_	_	_	_	_
+3	hep	hep	_	_	_	_	_	_	_
+4	söylüyorum	söylüyorum	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	sabahları	sabahları	_	_	_	_	_	_	_
+7	arkadaşınla	arkadaşınla	_	_	_	_	_	_	_
+8	telefonda	telefonda	_	_	_	_	_	_	_
+9	konuşurken	konuşurken	_	_	_	_	_	_	_
+10	benden	benden	_	_	_	_	_	_	_
+11	bahsetme	bahsetme	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3
+# text = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
+1	Yatılı	Yatılı	_	_	_	_	_	_	_
+2	kalacak	kalacak	_	_	_	_	_	_	_
+3	misafir	misafir	_	_	_	_	_	_	_
+4	kapıyı	kapıyı	_	_	_	_	_	_	_
+5	çalmıştı	çalmıştı	_	_	_	_	_	_	_
+6	ama	ama	_	_	_	_	_	_	_
+7	ev	ev	_	_	_	_	_	_	_
+8	sahibi	sahibi	_	_	_	_	_	_	_
+9	hala	hala	_	_	_	_	_	_	_
+10	temizlik	temizlik	_	_	_	_	_	_	_
+11	yapıyordu	yapıyordu	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	restorandan	restorandan	_	_	_	_	_	_	_
+14	sipariş	sipariş	_	_	_	_	_	_	_
+15	ettiği	ettiği	_	_	_	_	_	_	_
+16	yemek	yemek	_	_	_	_	_	_	_
+17	ise	ise	_	_	_	_	_	_	_
+18	daha	daha	_	_	_	_	_	_	_
+19	gelecekti	gelecekti	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = 4
+# text = Ayşe bir doktor.
+1	Ayşe	Ayşe	_	_	_	_	_	_	_
+2	bir	bir	_	_	_	_	_	_	_
+3	doktor	doktor	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 5
+# text = Kedi çok sevimli.
+1	Kedi	Kedi	_	_	_	_	_	_	_
+2	çok	çok	_	_	_	_	_	_	_
+3	sevimli	sevimli	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 6
+# text = Anneannesi hemşireydi.
+1	Anneannesi	Anneannesi	_	_	_	_	_	_	_
+2	hemşireydi	hemşireydi	_	_	_	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 7
+# text = Peki kitaplıktakiler nerede idi?
+1	Peki	Peki	_	_	_	_	_	_	_
+2	kitaplıktakiler	kitaplıktakiler	_	_	_	_	_	_	_
+3	nerede	nerede	_	_	_	_	_	_	_
+4	idi	idi	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 8
+# text = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
+1	Sude	Sude	_	_	_	_	_	_	_
+2	üç	üç	_	_	_	_	_	_	_
+3	saattir	saattir	_	_	_	_	_	_	_
+4	ofiste	ofiste	_	_	_	_	_	_	_
+5	yokmuş	yokmuş	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Ayşe	Ayşe	_	_	_	_	_	_	_
+8	de	de	_	_	_	_	_	_	_
+9	evde	evde	_	_	_	_	_	_	_
+10	değilmiş	değilmiş	_	_	_	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 9
+# text = Markette meyve var ama güzel değil.
+1	Markette	Markette	_	_	_	_	_	_	_
+2	meyve	meyve	_	_	_	_	_	_	_
+3	var	var	_	_	_	_	_	_	_
+4	ama	ama	_	_	_	_	_	_	_
+5	güzel	güzel	_	_	_	_	_	_	_
+6	değil	değil	_	_	_	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 10
+# text = Deniz doktor olacak, bilmiş ol!
+1	Deniz	Deniz	_	_	_	_	_	_	_
+2	doktor	doktor	_	_	_	_	_	_	_
+3	olacak	olacak	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	bilmiş	bilmiş	_	_	_	_	_	_	_
+6	ol	ol	_	_	_	_	_	_	_
+7	!	!	_	_	_	_	_	_	_
+
+# sent_id = 11
+# text = Deniz uyumuş idi.
+1	Deniz	Deniz	_	_	_	_	_	_	_
+2	uyumuş	uyumuş	_	_	_	_	_	_	_
+3	idi	idi	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 12
+# text = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
+1	Toplantı	Toplantı	_	_	_	_	_	_	_
+2	duyurulurken	duyurulurken	_	_	_	_	_	_	_
+3	çok	çok	_	_	_	_	_	_	_
+4	şaşırmış	şaşırmış	_	_	_	_	_	_	_
+5	olacak	olacak	_	_	_	_	_	_	_
+6	ki	ki	_	_	_	_	_	_	_
+7	bana	bana	_	_	_	_	_	_	_
+8	bakıp	bakıp	_	_	_	_	_	_	_
+9	durdu	durdu	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 13
+# text = Hırkam evde miymiş?
+1	Hırkam	Hırkam	_	_	_	_	_	_	_
+2	evde	evde	_	_	_	_	_	_	_
+3	miymiş	miymiş	_	_	_	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = 14
+# text = Bugün mü yapılacak etkinlik?
+1	Bugün	Bugün	_	_	_	_	_	_	_
+2	mü	mü	_	_	_	_	_	_	_
+3	yapılacak	yapılacak	_	_	_	_	_	_	_
+4	etkinlik	etkinlik	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 15
+# text = Sonuçlar açıklanmış, değil mi?
+1	Sonuçlar	Sonuçlar	_	_	_	_	_	_	_
+2	açıklanmış	açıklanmış	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	değil	değil	_	_	_	_	_	_	_
+5	mi	mi	_	_	_	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 16
+# text = Ayşe bu kitabı okumuş değil.
+1	Ayşe	Ayşe	_	_	_	_	_	_	_
+2	bu	bu	_	_	_	_	_	_	_
+3	kitabı	kitabı	_	_	_	_	_	_	_
+4	okumuş	okumuş	_	_	_	_	_	_	_
+5	değil	değil	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 17
+# text = Genel olarak okumayı değil, resim yapmayı seviyor.
+1	Genel	Genel	_	_	_	_	_	_	_
+2	olarak	olarak	_	_	_	_	_	_	_
+3	okumayı	okumayı	_	_	_	_	_	_	_
+4	değil	değil	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	resim	resim	_	_	_	_	_	_	_
+7	yapmayı	yapmayı	_	_	_	_	_	_	_
+8	seviyor	seviyor	_	_	_	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 18
+# text = Okuduklarını değil, okuyacaklarını anlatıyor.
+1	Okuduklarını	Okuduklarını	_	_	_	_	_	_	_
+2	değil	değil	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	okuyacaklarını	okuyacaklarını	_	_	_	_	_	_	_
+5	anlatıyor	anlatıyor	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 19
+# text = Bunun mavisi daha güzel, bana maviyi verir misin?
+1	Bunun	Bunun	_	_	_	_	_	_	_
+2	mavisi	mavisi	_	_	_	_	_	_	_
+3	daha	daha	_	_	_	_	_	_	_
+4	güzel	güzel	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	bana	bana	_	_	_	_	_	_	_
+7	maviyi	maviyi	_	_	_	_	_	_	_
+8	verir	verir	_	_	_	_	_	_	_
+9	misin	misin	_	_	_	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = 20
+# text = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+1	Gençlere	Gençlere	_	_	_	_	_	_	_
+2	erişilebilir	erişilebilir	_	_	_	_	_	_	_
+3	olmayan	olmayan	_	_	_	_	_	_	_
+4	hedefleri	hedefleri	_	_	_	_	_	_	_
+5	terk	terk	_	_	_	_	_	_	_
+6	ettirmeliyiz	ettirmeliyiz	_	_	_	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+

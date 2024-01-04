@@ -1,0 +1,126 @@
+- week: "01"
+  dates:
+    Oct 16: no class
+    Oct 18: no class
+    Oct 20: no class
+- week: "02"
+  dates:
+    Oct 23:
+      topic: introduction / administrivia
+    Oct 25:
+      topic: recap
+    Oct 27:
+      topic: Python intro
+- week: "03"
+  dates:
+    Oct 30:
+      topic: analysis of algorithms
+    Nov 01: no class
+    Nov 03:
+      topic: lab
+- week: "04"
+  dates:
+    Nov 06:
+      topic: common algorithmic patterns
+    Nov 08:
+      topic: sorting
+    Nov 10:
+      topic: lab
+- week: "05"
+  dates:
+    Nov 13:
+      topic: sorting
+    Nov 15:
+      topic: trees
+    Nov 17:
+      topic: lab
+- week: "06"
+  dates:
+    Nov 20:
+      topic: "heaps, priority queues"
+    Nov 22:
+      topic: "graphs: intro"
+    Nov 24:
+      topic: lab
+- week: "07"
+  dates:
+    Nov 27:
+      topic: "graphs: traversals"
+    Nov 29:
+      topic: "directed graphs"
+    Dec 01:
+      topic: lab
+- week: "08"
+  dates:
+    Dec 04:
+      topic: "shortest paths"
+    Dec 06:
+      topic: "graphs: MST"
+    Dec 08:
+      topic: lab
+- week: "09"
+  dates:
+    Dec 11:
+      topic: string matching
+    Dec 13:
+      topic: string matching
+    Dec 15:
+      topic: lab
+- week: "10"
+  dates:
+    Dec 18:
+      topic: edit distance
+    Dec 20:
+      topic: tries
+    Dec 22:
+      topic: lab
+- week: "11"
+  dates:
+    Dec 25: sem. break
+    Dec 27: sem. break
+    Dec 29: sem. break
+- week: "12"
+  dates:
+    Jan 01: sem. break
+    Jan 03: sem. break
+    Jan 05: sem. break
+- week: "13"
+  dates:
+    Jan 08:
+      topic: FSA intro
+    Jan 10:
+      topic: FSA determinization / minimization
+    Jan 12:
+      topic: lab
+- week: "14"
+  dates:
+    Jan 15:
+      topic: FSA and regular languages
+    Jan 17:
+      topic: FSTs
+    Jan 19:
+      topic: lab
+- week: "15"
+  dates:
+    Jan 22:
+      topic: "CFG Parsing: Intro"
+    Jan 24:
+      topic: CKY & Earley
+    Jan 26:
+      topic: lab
+- week: "16"
+  dates:
+    Jan 29:
+      topic: Dependency parsing
+    Jan 31:
+      topic: Dependency parsing
+    Feb 02:
+      topic: lab
+- week: "17"
+  dates:
+    Feb 05:
+      topic: summary/project discussion
+    Feb 07:
+      topic: exam discussion, Q&A
+    Feb 09:
+      topic: exam
