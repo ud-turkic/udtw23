@@ -11,8 +11,9 @@ Resources from the 2023 UD Turkic Workshop, held on September 8 in Istanbul, Tur
 
 - Agenda:
     - Status updates regarding the annotations, and translations;
+    - Presentation in February for 2nd UniDive Workshop;
     - Submitting a full paper for a workshop in LREC-COLING 2024
-- Date and time: TBD at [the link](https://www.when2meet.com/?22859151-J5sNF)
+- Date and time: Jan 20 Saturday at 7 PM (Istanbul time)
 - Place:
     - Zoom link: https://zoom.us/j/94784185477
     - Meeting ID: 947 8418 5477
