@@ -37,7 +37,7 @@
 12	сүйлөшкөндө	сүйлө	VERB	v.iv.coop.ger_past.loc	Case=Loc|Tense=Past|VerbForm=Ger|Voice=Coop	16	advcl	_	_
 13	мен	мен	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
 14	жөнүндө	жөнүндө	ADP	post	_	13	case	_	_
-15	сөз	сөз	ADP	post	_	16	compound:lvc	_	_
+15	сөз	сөз	NOUN	n	_	16	compound:lvc	_	_
 16	кылба	кыл	VERB	v.tv.neg.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	4	ccomp	_	SpaceAfter=No
 17	.	.	PUNCT	sent	_	4	punct	_	_
 
