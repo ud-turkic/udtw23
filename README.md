@@ -5,15 +5,14 @@ Resources from the 2023 UD Turkic Workshop, held on September 8 in Istanbul, Tur
 ## Current to-dos for the contributors
 
 - Finishing the translations of [the selected 20 Turkish sentences](https://github.com/ud-turkic/udtw23/wiki/selected-20-turkish-sentences) into your assigned Turkic language
-- Annotating the sets of sentences
+- Finishing the annotation of the 20~ sentences
 
-## 5th meeting
+## 7th meeting
 
 - Agenda:
-    - Status updates regarding the annotations, and translations;
     - Presentation in February for 2nd UniDive Workshop;
     - Submitting a full paper for a workshop in LREC-COLING 2024
-- Date and time: Jan 20 Saturday at 7 PM (Istanbul time)
+- Date and time: Feb 3 Saturday at 7 PM (Istanbul time)
 - Place:
     - Zoom link: https://zoom.us/j/94784185477
     - Meeting ID: 947 8418 5477
