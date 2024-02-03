@@ -279,7 +279,7 @@
 									
 # sent_id = 20									
 # sent = Без яшьләргә, ирешелә алмаган максатлардан баш тарттырырга тиеш.
-# translit = Bez yäşlärgä
+# translit = Bez yäşlärgä, ireşelä almağan maqsatlardan baş tarttırırğa tiyeş.
 # sent[en] = We must make the young abandon unattainable goals.									
 # sent[tr] = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.									
 1	Без	без	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
