@@ -1,5 +1,6 @@
 # sent_id = 1									
-# text = Безнеке, җәйге өйдәге балалар бүлмәсен тиз генә тәртипкә китереп, аш бүлмәсендәге өстәлне дә чыгарып аткан.									
+# text = Безнеке, җәйге өйдәге балалар бүлмәсен тиз генә тәртипкә китереп, аш бүлмәсендәге өстәлне дә чыгарып аткан.
+# translit = Bezneke, cäyge öydäge balalar bülmäsen tiz genä tärtipkä kiterep, aş bülmäsendäge östälne dä çığarıp atqan.
 # text[en] = Ours had tidied up the children’s room in the summerhouse hastily and disposed of the kitchen table.									
 # text[tr] = Bizimki yazlıktaki çocuk odasını apar topar derleyip toplamış, mutfağın masasını da elden çıkarmıştı.									
 1	Безнеке	безнеке	PRON	_	Case=Nom|Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nsubj	_	SpaceAfter=No
@@ -22,7 +23,8 @@
 18	.	.	PUNCT	_	_	17	punct	_	_
 									
 # sent_id = 2									
-# text = Сиңа моны һәрвакыт әйтәм, итрә белән дустың белән телефоннан сөйләшкәндә минем турында сөйләшмә.									
+# text = Сиңа моны һәрвакыт әйтәм, итрә белән дустың белән телефоннан сөйләшкәндә минем турында сөйләшмә.
+# translit = Siña monı härwaqıt äytäm, irtä belän dustıñ belän telefonnan söyläşkändä minem turında söyläşmä.
 # text[en] = I always tell you, when you talk with your friend on the phone in the morning, don't talk about me.									
 # text[tr] = Sana bunu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.									
 1	Сиңа 	син	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
@@ -42,9 +44,10 @@
 	.	.	PUNCT	_	_	4	punct	_	_
 									
 # sent_id = 3									
-# text = Кунарга туктаган кунак ишекне шакыды, өй хуҗасы исә һаман да өй җыештыра иде, ресторанга биргән заказы әле килмәгән иде.									
-# text[en] = The overnight guest knocked on the door, but the host was still cleaning, and the food she had ordered from the restaurant was yet to come.									
-# text[tr] = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.									
+# text = Кунарга туктаган кунак ишекне шакыды, өй хуҗасы исә һаман да өй җыештыра иде, ресторанга биргән заказы әле килмәгән иде.
+# translit = Qunarğa tuqtağan qunaq işekne şaqıdı, öy xucası isä haman da öy cıyıştıra ide, restoranğa birgän zakazı äle kilmägän ide.
+# text[en] = The overnight guest knocked on the door, but the host was still cleaning, and the food she had ordered from the restaurant was yet to come.
+# text[tr] = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemek ise daha gelecekti.
 1	Кунарга	кун	VERB	_	VerbForm=Inf	2	advcl	_	_
 2	туктаган	тукта	VERB	_	Tense=Past|VerbForm=Part	3	acl	_	_
 3	кунак	кунак	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -69,7 +72,8 @@
 22	.	.	PUNCT	_	_	20	punct	_	_
 									
 # sent_id = 4									
-# text = Айшә — табиб.									
+# text = Айшә — табиб.
+# translit = Ayşä — tabib.
 # text[en] = Ayşe is a doctor.									
 # text[tr] = Ayşe bir doktor.									
 1	Айшә	Айшә	PROPN	_	Case=Nom	3	nsubj	_	_
@@ -78,7 +82,8 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 									
 # sent_id = 5									
-# text = Безнең хәл итәргә мәсъәлә — китапханәдә биш китаплык җирнең булмавы.									
+# text = Безнең хәл итәргә мәсъәлә — китапханәдә биш китаплык җирнең булмавы.
+# translit = Bezneñ xäl itärgä mäs'älä — kitapxanädä biş kitaplıq cirneñ bulmawı.
 # text[en] = The (problem) we’re trying to solve is that the library doesn’t even have room for five books.									
 # text[tr] = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.									
 1	Безнең	без	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
@@ -94,7 +99,8 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 									
 # sent_id = 6									
-# text = Әбисе шәфкать туташы иде.									
+# text = Әбисе шәфкать туташы иде.
+# translit = Äbise şäfqät tutaşı ide.
 # text[en] = His/her grandmother was a nurse.									
 # text[tr] = Anneannesi hemşireydi.									
 1	Әбисе	әби	NOUN	_	Case=Nom|Number=Sing|Number[psor]=3	3	nsubj	_	_
@@ -104,7 +110,8 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 									
 # sent_id = 7									
-# text = Ярый, китап киштәсендәгеләр кайда иде?									
+# text = Ярый, китап киштәсендәгеләр кайда иде?
+# translit = Yarıy, kitap kiştäsendägelär qayda ide?
 # text[en] = So where were the [ones] on the bookshelf?									
 # text[tr] = Peki kitaplıktakiler nerede idi?									
 1	Ярый	яра	VERB	_	Person=3|Tense=Pres|VerbForm=Fin	5	discourse	_	SpaceAfter=No
@@ -116,7 +123,8 @@
 7	?	?	PUNCT	_	_	5	punct	_	_
 									
 # sent_id = 8									
-# text = Судә өч сәгать офиста юк икән, Айшә дә өйдә юк икән.									
+# text = Судә өч сәгать офиста юк икән, Айшә дә өйдә юк икән.
+# translit = Sudä öç säğät ofista yuq ikän, Ayşä dä öydä yuq ikän.
 # text[en] = Sude hadn’t been (wasn’t) at the office for three hours, and Ayşe hasn’t been at home.									
 # text[tr] = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.									
 1	Судә	Судә	PROPN	_	Case=Nom	5	nsubj	_	_
@@ -134,7 +142,8 @@
 13	.	.	PUNCT	_	_	5	punct	_	_
 									
 # sent_id = 9									
-# text = Кибеттә җимеш бар, ләкин яхшы түгел.									
+# text = Кибеттә җимеш бар, ләкин яхшы түгел.
+# translit = Kibettä cimeş bar, läkin yaxşı tügel.
 # text[en] = There is fruit in the market, but it’s not pretty.									
 # text[tr] = Markette meyve var ama güzel değil.									
 1	Кибеттә	кибет	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
@@ -147,7 +156,8 @@
 8	.	.	PUNCT	_	_	3	punct	_	_
 									
 # sent_id = 10									
-# text = Дениз табиб булачак, бел шуны!									
+# text = Дениз табиб булачак, бел шуны!
+# translit = Deniz tabib bulaçaq, bel şunı!
 # text[en] = Deniz will be a doctor, (so that) you know!									
 # text[tr] = Deniz doktor olacak, bilmiş ol!									
 1	Дениз	Дениз	PROPN	_	Case=Nom	3	nsubj	_	_
@@ -159,7 +169,8 @@
 7	!	!	PUNCT	_	_	3	punct	_	_
 									
 # sent_id = 11									
-# text = Дениз йоклаган иде.									
+# text = Дениз йоклаган иде.
+# translit = Deniz yoqlağan ide.
 # text[en] = Deniz was asleep.									
 # text[tr] = Deniz uyumuş idi.									
 1	Дениз	Дениз	PROPN	_	Case=Nom	2	nsubj	_	_
@@ -168,7 +179,8 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 									
 # sent_id = 12									
-# text = Җыелыш игълан ителгәндә бик гаҗәпләнгән булса кирәк, миңа карап торды.									
+# text = Җыелыш игълан ителгәндә бик гаҗәпләнгән булса кирәк, миңа карап торды.
+# translit = Cıyılış iğlan itelgändä bik ğäcäplängän bulsa kiräk, miña qarap tordı.
 # text[en] = He/She must have been so surprised as the meeting was being announced that he/she kept looking at me.									
 # text[tr] = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.									
 1	Җыелыш	җыелыш	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -185,7 +197,8 @@
 12	.	.	PUNCT	_	_	6	punct	_	_
 									
 # sent_id = 13									
-# text = Кардиганым өйдә икәнме?									
+# text = Кардиганым өйдә икәнме?
+# translit = Kardiganım öydä ikänme?
 # text[en] = Was my cardigan at home?									
 # text[tr] = Hırkam evde miymiş?									
 1	Кардиганым	кардиган	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	_
@@ -194,7 +207,8 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 									
 # sent_id = 14									
-# text = Бүгенме уздырылачак чара?									
+# text = Бүгенме уздырылачак чара?
+# translit = Bügenme uzdırılaçaq çara?
 # text[en] = Is the event to be held today?									
 # text[tr] = Bugün mü yapılacak etkinlik?									
 1	Бүгенме	бүген	ADV	_	Mood=Int	2	advmod	_	_
@@ -203,7 +217,8 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 									
 # sent_id = 15									
-# sent = Нәтиҗәләр белдерелгән түгелме?									
+# sent = Нәтиҗәләр белдерелгән түгелме?
+# transtli = Näticälär belderelgän tügelme?
 # text[en] = The results have been announced, haven’t they?									
 # text[tr] = Sonuçlar açıklanmış, değil mi?									
 1	Нәтиҗәләр	нәтиҗә	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	_
@@ -212,7 +227,8 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 									
 # sent_id = 16									
-# sent = Айшә бу китапны укымады.									
+# sent = Айшә бу китапны укымады.
+# translit = Ayşä bu kitapnı uqımadı.
 # sent[en] = Ayşe hasn’t read this book.									
 # sent[tr] = Ayşe bu kitabı okumuş değil.									
 1	Айшә	Айшә	PROPN	_	Case=Nom	4	nsubj	_	_
@@ -222,7 +238,8 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 									
 # sent_id = 17									
-# sent = Гадәттә укуны түгел, рәсем ясауны ярата.									
+# sent = Гадәттә укуны түгел, рәсем ясауны ярата.
+# translit = Ğädättä uqunı tügel, räsem yasawnı yarata.
 # sent[en] = In general, he/she likes to paint, not to read.									
 # sent[tr] = Genel olarak okumayı değil, resim yapmayı seviyor.									
 1	Гадәттә	гадәт	NOUN	_	Case=Loc|Number=Sing	7	obl	_	_
@@ -235,7 +252,8 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 									
 # sent_id = 18									
-# sent = Укыганнарын түгел, укыячакларын аңлата.									
+# sent = Укыганнарын түгел, укыячакларын аңлата.
+# translit = Uqığannarın tügel, uqıyaçaqların añlata.
 # sent[en] = He/She tells what she will read, not what he/she has read.									
 # sent[tr] = Okuduklarını değil, okuyacaklarını anlatıyor.									
 1	Укыганнарын	укы	VERB	_	Case=Acc|Number=Plur|Person[psor]=3|Tense=Past|VerbForm=Part	4	parataxis	_	_
@@ -246,7 +264,8 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 									
 # sent_id = 19									
-# sent = Моның зәңгәре матуррак, миңа зәңгәрне бирмәссеңме?									
+# sent = Моның зәңгәре матуррак, миңа зәңгәрне бирмәссеңме?
+# translit = Monıñ zäñgäre maturraq, miña zäñgärne birmässeñme?
 # sent[en] = The blue [one] of this is prettier, can you give me the blue?									
 # sent[tr] = Bunun mavisi daha güzel, bana maviyi verir misin?									
 1	Моның	бу	PRON	_	Case=Gen|Number=Sing|PronType=Dem	2	nmod	_	_
@@ -259,7 +278,8 @@
 8	?	?	PUNCT	_	_	7	punct	_	_
 									
 # sent_id = 20									
-# sent = Без яшьләргә, ирешелә алмаган максатлардан баш тарттырырга тиеш.									
+# sent = Без яшьләргә, ирешелә алмаган максатлардан баш тарттырырга тиеш.
+# translit = Bez yäşlärgä
 # sent[en] = We must make the young abandon unattainable goals.									
 # sent[tr] = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.									
 1	Без	без	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
