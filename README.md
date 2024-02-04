@@ -1,18 +1,16 @@
 # udtw23
 
-Resources from the 2023 UD Turkic Workshop, held on September 8 in Istanbul, Turkey.
+UD Turkic Workshop 2023 was held on September 8 in Istanbul, Turkey. This repository holds resources related to the workshop and efforts afterwards. The resources are still being developed.
 
 ## Current to-dos for the contributors
 
-- Finishing the translations of [the selected 20 Turkish sentences](https://github.com/ud-turkic/udtw23/wiki/selected-20-turkish-sentences) into your assigned Turkic language
-- Finishing the annotation of the 20~ sentences
+- Finishing the annotation of the 20~ sentences and pushing to this repository
 
 ## 7th meeting
 
 - Agenda:
-    - Presentation in February for 2nd UniDive Workshop;
-    - Submitting a full paper for a workshop in LREC-COLING 2024
-- Date and time: Feb 3 Saturday at 7 PM (Istanbul time)
+    - Working on the full paper for the workshop [MWE-UD 2024](https://multiword.org/mweud2024/) in LREC-COLING 2024
+- Date and time: Feb 10 Saturday at 7 PM (Istanbul time)
 - Place:
     - Zoom link: https://zoom.us/j/94784185477
     - Meeting ID: 947 8418 5477
