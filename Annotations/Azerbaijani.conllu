@@ -1,0 +1,456 @@
+
+
+# sent_id = AZ-1a
+# text_az = Ərim bağdakı uşağ otağının pǝncǝrǝsini tez-tez tǝmizləmişdi, aşpazxananınkını tǝmizlǝmǝmişdi.
+# glossing = husband-POSS.1SG garden-LOC-KI child room-POSS.3SG-GEN window-POSS.3SG-ACC	fast-fast clean-PFV-PST.3SG kitchen-POSS.3SG-KI-ACC clean-NEG-PFV-PST.3SG
+# text_en = 'My spouse cleaned the windows of the children's room at the summer house hastily, (but) didn't clean the kitchen's.'
+# text_tr = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
+# issues = Both uses of -ki, compound (vs nmod:poss), multi-word expressions
+1	Ərim	ər	NOUN	_	_	9	nsubj	_	_
+2	bağdakı	baq	NOUN	_	_	4	amod	_	_
+3	uşağ	uşaq	NOUN	_	_	4	nmod	_	_
+4	otağının	otaq	NOUN	_	_	5	nmod	_	_
+5	pǝncǝrǝsini	pəncərə	NOUN	_	_	9	obj	_	_
+6	tez	tez	ADV	_	_	8	compound:redup	_	_
+7	-	-	PUNCT	_	_	6	punct	_	_
+8	tez	tez	ADV	_	_	9	advmod	_	_
+9	tǝmizləmişdi	təmizlə	VERB	_	_	0	root	_	_
+10	,	punct	PUNCT	_	_	9	punct	_	_
+11	aşpazxananınkını	aşpazxana	NOUN	_	_	12	obj	_	_
+12	tǝmizlǝmǝmişdi	təmizləmə	VERB	_	_	9	conj	_	_
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = AZ-1b
+# text_az = Ərim bağdakı uşağ otağının pǝncǝrǝsini tez-tez tǝmizləmişdi, aşpazxananınkını tǝmizlǝmǝmişdi.
+# glossing = husband-POSS.1SG garden-LOC-KI child room-POSS.3SG-GEN window-POSS.3SG-ACC	fast-fast clean-PFV-PST.3SG kitchen-POSS.3SG-KI-ACC clean-NEG-PFV-PST.3SG
+# text_en = 'My spouse cleaned the windows of the children's room at the summer house hastily, (but) didn't clean the kitchen's.'
+# text_tr = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
+# issues = Both uses of -ki, compound (vs nmod:poss), multi-word expressions
+1	Ərim	ər	NOUN	_	_	10	nsubj	_	_
+2-3	bağda-kı	_	_	_	_	_	_	_	_
+2	bağdakı	baq	NOUN	_	_	5	amod	_	_
+3	kı	ki	ADJ	_	_	5	amod	_	_
+4	uşağ	uşaq	NOUN	_	_	5	nmod	_	_
+5	otağının	otaq	NOUN	_	_	6	nmod	_	_
+6	pǝncǝrǝsini	pəncərə	NOUN	_	_	10	obj	_	_
+7	tez	tez	ADV	_	_	9	compound:redup	_	_
+8	-	-	PUNCT	_	_	7	punct	_	_
+9	tez	tez	ADV	_	_	10	advmod	_	_
+10	tǝmizləmişdi	təmizlə	VERB	_	_	0	root	_	_
+11	,	punct	PUNCT	_	_	10	punct	_	_
+12	aşpazxananınkını	aşpazxana	NOUN	_	_	13	obj	_	_
+13	tǝmizlǝmǝmişdi	təmizləmə	VERB	_	_	10	conj	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+
+# sent_id = AZ-2a
+# text_az = Sənə bunu həmişə diyirəm, söbhlər yoldaşıynan telfunda danışanda mənnən danışma.
+# glossing = you-DAT this-ACC always say-PROG-1SG morning-3PL friend-POSS.2SG-COM phone-LOC	speak-when I-ABL speak.IMP-NEG
+# text_en = ‘I always tell you this, don’t talk about me on the phone with your friend in the morning.’
+# text_tr = Sana bubu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
+# issues = Oblique vs object, oblique (?) as temporal modifier
+1	Sənə	sən	PRON	_	_	4	obl	_	_
+2	bunu	bu	PRON	_	_	4	obj	_	_
+3	həmişə	həmişə	ADV	_	_	4	advmod	_	_
+4	diyirəm	di	VERB	_	_	0	root	_	_
+5	,	punct	PUNCT	_	_	11	punct	_	_
+6	söbhlər	söbh	ADV	_	_	9	advmod	_	_
+7	yoldaşıynan	yoldaş	NOUN	_	_	9	obl	_	_
+8	telfunda	telfun	NOUN	_	_	9	obl	_	_
+9	danışanda	danış	VERB	_	_	11	advcl	_	_
+10	mənnən	mən	PRON	_	_	11	obl	_	_
+11	danışma	danış	VERB	_	_	4	ccomp	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-2b
+# text_az = Sənə bunu həmişə diyirəm, söbhlər yoldaşıynan telfunda danışanda mənim moridimdə danışma.
+# glossing = you-DAT this-ACC always say-PROG-1SG morning-3PL friend-POSS.2SG-COM phone-LOC	speak-when I-ABL speak.IMP-NEG
+# text_en = ‘I always tell you this, don’t talk about me on the phone with your friend in the morning.’
+# text_tr = Sana bubu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
+# issues = Oblique vs object, oblique (?) as temporal modifier
+1	Sənə	sən	PRON	_	_	4	obl	_	_
+2	bunu	bu	PRON	_	_	4	obj	_	_
+3	həmişə	həmişə	ADV	_	_	4	advmod	_	_
+4	diyirəm	di	VERB	_	_	0	root	_	_
+5	,	punct	PUNCT	_	_	4	punct	_	_
+6	söbhlər	söbh	ADV	_	_	9	advmod	_	_
+7	yoldaşıynan	yoldaş	NOUN	_	_	9	obl	_	_
+8	telfunda	telfun	NOUN	_	_	9	obl	_	_
+9	danışanda	danış	VERB	_	_	12	advcl	_	_
+10	mənim	mən	PRON	_	_	12	obl	_	_
+11	moridimdə	morid	ADP	_	_	10	case	_	_
+12	danışma	danış	VERB	_	_	4	ccomp	_	_
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-3
+# text_az = Gecəni qalan qonax qapını çalmışdı, amma öy sahab sil-süpür elirdi və resturandan sifariş verən qəza hələ gələcəgidi.
+# glossing = night-ACC stay-PTCP guest door-ACC knock-PFV-PST.3SG, but house.owner clean-sweep make-PROG-PST.3SG and restaurant-ABL order give-PTCP food still come-NEG-FUT-PST.3SG
+# text_en = ‘The overnight guest knocked on the door, but the host was still cleaning, and the food she had ordered from the restaurant was yet to come.’
+# text_tr = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemekise daha gelecekti.
+# issues = Participle, multiple TAM marker/copula, oblique
+1	Gecəni	Gecə	NOUN	_	_	2	obj	_	_
+2	qalan	qal	VERB	_	_	3	acl	_	_
+3	qonax	qonax	NOUN	_	_	5	nsubj	_	_
+4	qapını	qapı	NOUN	_	_	5	obj	_	_
+5	çalmışdı	çal	VERB	_	_	0	root	_	_
+6	,	punct	PUNCT	_	_	5	punct	_	_
+7	amma	amma	CCONJ	_	_	13	cc	_	_
+8	öy	öy	NOUN	_	_	9	nmod	_	_
+9	sahab	sahab	NOUN	_	_	_	_	_	_
+10	sil	sil	VERB	_	_	13	compound:lvc	_	_
+11	-	punct	PUNCT	_	_	10	punct	_	_
+12	süpür	süpür	VERB	_	_	10	fixed	_	_
+13	elirdi	elə	VERB	_	_	5	conj	_	_
+14	və	və	CCONJ	_	_	20	cc	_	_
+15	resturandan	restauran	NOUN	_	_	17	obl	_	_
+16	sifariş	sifariş	NOUN	_	_	17	obj	_	_
+17	verən	ver	VERB	_	_	18	nmod	_	_
+18	qəza	qəza	NOUN	_	_	20	nsubj	_	_
+19	hələ	hələ	ADV	_	_	20	advmod	_	_
+20	gələcəgidi	gəl	VERB	_	_	5	conj	_	_
+21	.	punct	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-4
+# text_az = Ayşə düktürdü(r).
+# glossing = Ayshe doctor-COP.3SG
+# text_en = Ayshe is a doctor.
+# text_tr = Ayşe bir doktor.
+# issues = Null morpheme copula
+1	Ayşə	Ayşe	NOUN	_	_	2	nsubj	_	_
+2-3	düktürdü(r)    düktür  _	_	_	_	_	_	_
+2	düktür	düktür	NOUN	_	_	0	root	_	_
+3	dü(r)	i	AUX	_	_	2	cop	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-5
+# text_az = Həll eləməyə təlaş elədigimiz məsələ budu(r) ki kitabxanada beş dənə kitaba da yer yox.
+# glossing = solve doing-DAT try do-PTCP-POSS.1PL problem this-COP.3SG that library-LOC five grain book-DAT even place not.EXIST.3SG
+# text_az = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmaması.
+# text_tr = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
+# issues = Null morpheme copula with multiple subjects, productive/lexicalized derivation
+1	Həll	_	NOUN	_	_	2	compound:lvc	_	_
+2	eləməyə	_	VERB	_	_	4	xcomp	_	_
+3	təlaş	_	NOUN	_	_	4	compound:lvc	_	_
+4	elədigimiz	VERB	VERB	_	_	5	acl	_	_
+5	məsələ	_	NOUN	_	_	12	nsubj:outer	_	_
+6	kitabxanada	_	NOUN	_	_	12	obl	_	_
+7	beş	_	NUM	_	_	9	nummod	_	_
+8	dənə	_	DET	_	_	7	clf	_	_
+9	kitaba	_	NOUN	_	_	12	obl	_	_
+10	da	_	ADV	_	_	9	advmod:emphd	_	_
+11	yer	_	NOUN	_	_	12	nsubj:inner	_	_
+12	olmamasıdır	_	VERB	_	_	0	root	_	_
+13	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = AZ-6a
+# text_az = Böyük nənəsı  pərəstarıdı.
+# glossing = grand mother-POSS.3SG nurse-COP.PST.3SG
+# text_en = ‘His/her grandmother was a nurse.’
+# text_tr = Anneannesi hemşireydi.
+# issues =  Copula
+1	Böyük	Böyük	ADJ	_	_	2	amod	_	_
+2	nənəsı 	nənə	NOUN	_	_	3	nsubj	_	_
+3-4	pərəstarıdı	pərəstar	_	_	_	_	_	_	_
+3	pərəstar	pərəstar	NOUN	_	_	0	root	_	_
+4	ıdı	i	AUX	_	_	3	cop	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-6b
+# text_az = Böyük nənəsı  pərəstarıdı.
+# glossing = grand mother-POSS.3SG nurse-COP.PST.3SG
+# text_en = ‘His/her grandmother was a nurse.’
+# text_tr = Anneannesi hemşireydi.
+# issues =  Copula
+1	Böyük	Böyük	ADJ	_	_	2	amod	_	_
+2	nənəsı 	nənə	NOUN	_	_	3	nsubj	_	_
+3	pərəstar	pərəstar	NOUN	_	_	0	root	_	_
+4	iydi	i	AUX	_	_	3	cop	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-7a
+# text_az = Pəs kitabxanadakılar harda iydi?
+# glossing = so library-LOC-KI-PL where-LOC	COP.PST.3SG
+# text_en = ‘So where were the [ones] on the bookshelf?’
+# text_tr = Peki kitaplıktakiler nerede idi?
+# issues = Copula “idi”, derivation, -ki
+1	Pəs	Pəs	INTJ	_	_	4	discourse	_	_
+2-3	kitabxanadakılar	_	_	_	_	_	_	_	_
+2	kitabxanada	kitabxana	NOUN	_	_	3	nmod	_	_ 
+3	kılar	kitabxana	PRON	_	_	4	nsubj	_	_ 
+4	harda	harda	DET	_	_	0	root	_	_
+5	iydi	i	AUX	_	_	4	cop	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-7b
+# text_az = Pəs kitabxanadakılar harda iydi?
+# glossing = so library-LOC-KI-PL where-LOC	COP.PST.3SG
+# text_en = ‘So where were the [ones] on the bookshelf?’
+# text_tr = Peki kitaplıktakiler nerede idi?
+# issues = Copula “idi”, derivation, -ki
+1	Pəs	Pəs	INTJ	_	_	3	discourse	_	_
+2	kitabxanadakılar	kitabxana	NOUN	_	_	3	nsubj	_	_ 
+3	harda	harda	ADV	_	_	0	root	_	_
+4	iydi	i	AUX	_	_	3	cop	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-8
+# text_az = Sudə üç saatdı(r) afisdə dəyir, Ayşə də öydə dəyirmiş. 
+# glossing = Sude three	hour-COP.PRS.3SG office-LOC	not.be.PRS.3SG Ayshe also home-LOC not.be-PFV			
+# text_en = ‘Sude was not at the office for three hours, and Ayshe was not at home.’
+# text_tr = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
+# issues = Temporal modifier / oblique, existential, “değil” negation
+1	Sudə	Sudə	PROPN	_	_	5	nsubj	_	_
+2	üç	üç	NUM	_	_	3	nummod	_	_
+3-4	saatdı(r)	_	_	_	_	_	_	_	_
+3	saat	saat	NOUN	_	_	5	obl	_	_
+4	dı(r)	i	AUX	_	_	3	cop	_	_
+5	afisdə	afis	NOUN	_	_	0	root	_	_
+6	dəyir	dəyir	AUX	_	_	5	cop	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	Ayşə	Ayşə	PROPN	_	_	10	nsubj	_	_
+9	də	də	ADV	_	_	8	advmod:emph	_	_
+10	öydə	öy	NOUN	_	_	5	conj	_	_
+11	dəyirmiş	dəyir	AUX	_	_	10	cop	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-9
+# text_az = Bazarda mivə var amma yaxçı dǝyir.
+# glossing = market-LOC	fruit EXIST.PRS.3SG	but	good not.be-PRS.3SG
+# text_en = ‘There is fruit in the market, but it’s not pretty.’
+# text_tr = Markette meyve var ama güzel değil.
+# issues = Existential, “değil” negation
+1	Bazarda	Bazar	NOUN	_	_	3	obl	_	_
+2	mivə	mivə	NOUN	_	_	3	nsubj	_	_
+3	var	var	ADJ	_	_	0	root	_	_
+4	amma	amma	CCONJ	_	_	5	cc	_	_
+5	yaxçı	yaxçı	ADJ	_	_	3	conj	_	_
+6	dǝyir	dǝyir	VERB	_	_	5	cop	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-10a
+# text_az = Deniz düktür olacax, bilmiş ol!
+# glossing = Deniz doctor be-FUT.3SG know-PTCP  be.IMP.2SG Deniz doctor be-FUT.3SG know-PTCP be.IMP.2SG
+# text_en = ‘Deniz will be a doctor, (so that) you know!’
+# text_tr = Deniz doktor olacak, bilmiş ol!
+# issues = Copula, light verb auxiliary
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	düktür	düktür	NOUN	_	_	3	obj	_	_
+3	olacax	ol	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	bilmiş	bil	VERB	_	_	3	parataxis	_	_
+6	ol	ol	AUX	_	_	5	aux	_	_
+7	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-10b
+# text_az = Deniz düktür olacax, bilmiş ol!
+# glossing = Deniz doctor be-FUT.3SG know-PTCP  be.IMP.2SG Deniz doctor be-FUT.3SG know-PTCP be.IMP.2SG
+# text_en = ‘Deniz will be a doctor, (so that) you know!’
+# text_tr = Deniz doktor olacak, bilmiş ol!
+# issues = Copula, light verb auxiliary
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	düktür	düktür	NOUN	_	_	3	obj	_	_
+3	olacax	ol	VERB	_	_	5	ccomp	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	bilmiş	bil	VERB	_	_	0	root	_	_
+6	ol	ol	AUX	_	_	5	aux	_	_
+7	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-11
+# text_az = Deniz yatmış iydi.
+# glossing = Deniz sleep-PTCP COP.PST.3SG
+# text_tr = Deniz uyumuş idi.
+# text_en = ‘Deniz was asleep.’
+# issues = Copula
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	yatmış	yat	VERB	_	_	0	root	_	_
+3	iydi	i	AUX	_	_	2	cop	_	_
+4	.	punct	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = AZ-12
+# text_az = Cǝlǝsǝ elam olanda o qədər tǝǝccüb elǝmişdi ki mǝnǝ elǝ mat mat baxırdı.
+# glossing = meeting announce be-when that  much surprisemake-PFV-PST.3SG that I-DAT like.that surprisingly look-PROG-PST.3SG
+# text_en = ‘He/She must have been so surprised as the meeting was being announced that he/she kept looking at me.’
+# text_tr = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
+# issues = Converb, copula / AUX
+1	Cǝlǝsǝ	cələsə	NOUN	_	_	3	nsubj	_	_
+2	elam	elam	NOUN	_	_	3	compound:lvc	_	_
+3	olanda	ol	AUX	_	_	7	advcl	_	_
+4	o	o	PRON	_	_	7	obl	_	_
+5	qədər	qədər	ADP	_	_	4	case	_	_
+6	tǝǝccüb	təəccüb	NOUN	_	_	7	compound:lvc	_	_
+7	elǝmişdi	elə	VERB	_	_	0	root	_	_
+8	ki	ki	SCONJ	_	_	14	mark	_	_
+9	mǝnǝ	mən	NOUN	_	_	14	obl	_	_
+10	elǝ	elə	ADV	_	_	14	advmod	_	_
+11	mat	mat	ADV	_	_	14	advmod	_	_
+12	-	punct	PUNCT	_	_	11	punct	_	_
+13	mat	mat	ADV	_	_	11	compound:redup	_	_
+14	baxırdı	bax	VERB	_	_	7	advcl	_	_
+15	.	punct	PUNCT	_	_	7	punct	_	_
+
+# sent_id = AZ-13
+# text_az = Jakətim öydǝ iymiş?
+# glossing = jacket-POSS.1SG home-LOC be.PST.3SG
+# text_en = ‘Was my cardigan at home?’
+# text_tr = Hırkam evde miymiş.
+# issues = Question particle
+1	jakətim	jackət	NOUN	_	_	2	nsubj	_	_
+2	öydǝ	öy	NOUN	_	_	0	root	_	_
+3	iymiş	i	AUX	_	_	2	cop	_	_
+4	?	punct	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-14
+# text_az = Mərasim büyün bərgüzar olacax?  
+# glossing = event today hold be.AUX-FUT.3SG
+# text_en = ‘Is the event to be held today?’
+# text_tr = Bugün mü yapılacak etkinlik?
+# issues = Negation, participle
+1	Mərasim	Mərasim	NOUN	_	_	4	nsubj	_	_
+2	büyün	büyün	ADV	_	_	4	advmod	_	_
+3	bərgüzar	bərgüzar	VERB	_	_	4	compound:lvc	_	_
+4	olacax	ol	VERB	_	_	0	root	_	_
+5	?	punct	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-15
+# text_az = Nəticələr gəlmiş; belə dǝyir?
+# glossing = result-PL come-PFV.3SG like.this not.be.PRS.3SG
+# text_en = ‘The results have been announced, haven’t they?’
+# text_tr = Sonuçlar açıklanmış, değil mi?
+# issues = Question particle, tag question
+1	Nəticələr	Nəticə	NOUN	_	_	2	nsubj	_	_
+2	gəlmış	gəl	VERB	_	_	0	root	_	_
+3	;	punct	PUNCT	_	_	2	punct	_	_
+4	belə	belə	PRON	_	_	2	parataxis	_	_
+5	dǝyir	dəyir	AUX	_	_	4	cop	_	_
+6	?	punct	PUNCT	_	_	2	punct	_	_
+
+
+# sent_id = AZ-16a
+# text_az = Ayşə bu kitabı oxumamış dǝyir.
+# glossing = Ayshe this book-ACC read-NEG-PTCP not.be.PRS.3SG
+# text_en = 'This is not the case that Ayshe has not read the book.'
+# text_tr = Ayşe bu kitabı oku(ma)mış değil.
+# issues = Negation, participle
+1	Ayşə	Ayşə	PROPN	_	_	4	nsubj	_	_
+2	bu	bu	DET	_	_	3	det	_	_
+3	kitabı	kitab	NOUN	_	_	4	obj	_	_
+4	oxumamış	oxu	VERB	_	_	0	root	_	_
+5	dǝyir	dəyir	ADV	_	_	4	advmod	_	_
+6	.	punct	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-16b
+# text_az = Ayşə bu kitabı oxumamış dǝyir.
+# glossing = Ayshe this book-ACC read-NEG-PTCP not.be.PRS.3SG
+# text_en = 'This is not the case that Ayshe has not read the book.'
+# text_tr = Ayşe bu kitabı oku(ma)mış değil.
+# issues = Negation, participle
+1	Ayşə	Ayşə	PROPN	_	_	4	nsubj	_	_
+2	bu	bu	DET	_	_	3	det	_	_
+3	kitabı	kitab	NOUN	_	_	4	obj	_	_
+4	oxumamış	oxu	VERB	_	_	0	root	_	_
+5	dǝyir	dəyir	AUX	_	_	4	aux	_	_
+6	.	punct	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-17
+# text_az = Kollən, oxumğı yox, amma nəqaşşi çekmağı söyür.
+# glossing = in.general read-ACC no but paint draw-ACC like-PRS.3SG
+# text_en = 'In general they like to paint, not to read.'
+# text_tr = Genel olarak okumayı değil, resim yapmayı seviyor.
+# issues = Negation, participle
+1	Kollən	Kollən	ADV	_	_	9	advmod	_	_
+2	,	punct	PUNCT	_	_	1	punct	_	_
+3	oxumğı	oxu	VERB	_	_	9	xcomp	_	_
+4	yox	yox	ADJ	_	_	3	aux	_	_
+5	,	punct	PUNCT	_	_	3	punct	_	_
+6	amma	amma	CCONJ	_	_	8	cc	_	_
+7	nəqqaşi	nəqqaşi	NOUN	_	_	8	compound:lvc	_	_
+8	çekmağı	çek	VERB	_	_	3	conj	_	_
+9	söyür	söy	VERB	_	_	0	root	_	_
+10	.	punct	PUNCT	_	_	9	punct	_	_
+
+# sent_id = AZ-18
+# text_az = Oxuduxlarını yox oxuyacaxlarını annadır.
+# glossing = read-PTCP.PST-PL-POSS.3SG-ACC not read-PTCP.FUT-PL-POSS.3SG-ACC explain-CAUS-PRS.3SG
+# text_en = ‘He/She tells what she will read, not what he/she has read.’
+# text_tr = Okuduklarını değil, okuyacaklarını anlatıyor.
+# issue = Negation, participle
+1	Oxuduxlarını	oxu	VERB	_	_	2	obj	_	_
+2	yox	yox	ADV	_	_	5	advcl	_	_
+3	,	punct	PUNCT	_	_	5	punct	_	_
+4	oxuyacaxlarını	oxu	VERB	_	_	5	obj	_	_
+5	annadır	anna	VERB	_	_	0	root	_	_
+6	.	punct	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-19
+# text_az = Bunun abisi çoxtər yaxçıdı. mənə abini verərsən?
+# glossing = this-GEN blue-POSS.3SG very-COMP good-COP I-DAT blue-ACC give-AOR-2SG
+# text_en = 'The blue [one] of these is prettier, could you give me the blue one?'
+# text_tr = Bunun mavisi daha güzel, bana maviyi verir misin?
+# issue = Zero A -> N derivation, -si
+1	Bunun	bu	PRON	_	_	2	nmod:poss	_	_
+2	abisi	abi	NOUN	_	_	4	nsubj	_	_
+3	çoxtər	çox	ADV	_	_	4	advmod	_	_
+4	yaxçıdı	yaxçı	ADJ	_	_	0	root	_	_
+5	.	punct	PUNCT	_	_	4	punct	_	_
+6	mənə	mən	PRON	_	_	8	obl	_	_
+7	abini	abi	NOUN	_	_	8	obj	_	_
+8	verərsən	ver	VERB	_	_	4	parataxis	_	_
+9	?	punct	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-20a
+# text_az = Cəvanları əlçatmaz hədəflərindən əl çekməyə məcbur eləməliyik.
+# glossing = young-PL-ACC reach-ABIL-NEG-PTCP goal-PL-POSS.3PL-ABL hand pull-INF-DAT force do-NEC-1PL
+# text_en = 'We must make the young abandon unattainable goals.'
+# text_tr = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+# issue = Multiple TAM markers, multi-word expressions
+1	Cəvanları	Cəvan	NOUN	_	_	7	obj	_	_
+2	əlçatmaz	əlçatmaz	ADJ	_	_	3	acl	_	_
+3	hədəflərindən	hədəf	NOUN	_	_	7	obl	_	_
+4	əl	əl	NOUN	_	_	5	compound:lvc	_	_
+5	çekməyə	çek	VERB	_	_	7	obl	_	_
+6	məcbur	məcbur	ADJ	_	_	7	compound:lvc	_	_
+7	eləməliyik	elə	VERB	_	_	0	root	_	_
+8	.	punct	PUNCT	_	_	7	punct	_	_
+
+# sent_id = AZ-20b
+# text_az = Cəvanlara elçatmaz hedeferini terk etdirmeliyik.
+# glossing = young-PL-DAT reach-ABIL-NEG-PTCP goal-PL-POSS.3PL-ACC abandon do-CAUS-NEC-1PL
+# text_en = 'We must make the young abandon unattainable goals.'
+# text_tr = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+# issue = Multiple TAM markers, multi-word expressions
+1	Cəvanlara	cəvan	ADJ	_	_	5	obl	_	_
+2	əlçatmaz	əlçatmaz	ADJ	_	_	3	acl	_	_
+3	hədəflərini	hədəf	NOUN	_	_	5	obj	_	_
+4	tərk	tərk	VERB	_	_	5	compound:lvc	_	_
+5	etdirməliyik	et	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-21b
+# text_az = moəllim kitabı alıp, mədrəsəyə getdi.
+# glossing = teacher book-ACC take-3SG. school-DAT go-3SG.PAST
+# text_en = 'The teacher took the book and left for school.'
+# text_tr = Öğretmen kitabı alıp okula gitti.
+# issues = Multiple TAM markers, multi-word expressions
+1	moəllim	moəllim	NOUN	_	_	6	nsubj	_	_
+2	kitabı	kitab	NOUN	_	_	6	obj	_	_
+3	alıp	al	VERB	_	_	6	conj	_	_
+4	,	punct	PUNCT	_	_	6	punct	_	_
+5	mədrəsəyə	mədrəsəyə	NOUN	_	_	6	obl	_	_
+6	getdi	get	VERB	_	_	0	root	_	_
+7	.	punct	PUNCT	_	_	6	punct	_	_
+
+
+# sent_id = AZ-22a
+# text_az = moəllim kitabı alıp mədrəsəyə apardı.
+# glossing = teacher book-ACC take-3SG. school-DAT take-3SG.PAST
+#  text_en = 'The teacher took the book to school.'
+# text_tr = Öğretmen kitabı okula götürdü.
+# issue = Multiple TAM markers, multi-word expressions
+1	moəllim	moəllim	NOUN	_	_	6	nsubj	_	_
+2	kitabı	kitab	NOUN	_	_	6	obj	_	_
+3	alıp	al	VERB	_	_	6	conj	_	_
+4	,	punct	PUNCT	_	_	6	punct	_	_
+5	mədrəsəyə	mədrəsə	NOUN	_	_	6	obl	_	_
+6	apardı	apar	VERB	_	_	0	root	_	_
+7	.	punct	PUNCT	_	_	6	punct	_	_
