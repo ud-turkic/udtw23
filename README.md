@@ -6,11 +6,11 @@ UD Turkic Workshop 2023 was held on September 8 in Istanbul, Turkey. This reposi
 
 - Finishing the annotation of the 20~ sentences and pushing to this repository
 
-## 8th meeting
+## 9th meeting
 
 - Agenda:
     - Working on the full paper for the workshop [MWE-UD 2024](https://multiword.org/mweud2024/) in LREC-COLING 2024
-- Date and time: Feb 10 Saturday at 7 PM (Istanbul time)
+- Date and time: Feb ? at ? (Istanbul time) | to be determined.
 - Place:
     - Zoom link: https://zoom.us/j/94784185477
     - Meeting ID: 947 8418 5477
