@@ -51,23 +51,24 @@
 4	эшикти	эшик	NOUN	n.acc	Case=Acc|Definite=Def	5	obj	_	_
 5	такылдатыптыр	такылда	VERB	v.iv.caus.ifi.evid.p3.sg	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	cm	_	5	punct	_	_
-7	бирок	бирок	CCONJ	cnjcoo	_	12	cc	_	_
+7	бирок	бирок	CCONJ	cnjcoo	_	13	cc	_	_
 8	үйдүн	үй	NOUN	n.gen	Case=Gen|Definite=Def	9	nmod:poss	_	_
-9	ээси	ээ	NOUN	n.px3sp.nom	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	12	nsubj	_	_
-10	дагы эле	дагы эле	ADV	adv	_	12	advmod	_	_
-11	үйдү	үй	NOUN	n.acc	Case=Acc|Definite=Def	12	obj	_	_
-12	жыйнап	жыйна	VERB	v.tv.prc_perf	Aspect=Perf|VerbForm=Cov	5	conj	_	_
-13	жаткан	жат	AUX	vaux.past.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	SpaceAfter=No
-14	,	,	PUNCT	cm	_	5	punct	_	_
-15	ал эми	ал эми	ADV	cnjadv	_	21	cc	_	_
-16	ал	ал	PRON	prn.pers.p3.sg.nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
-17	буюртма	буюртма	NOUN	n.acc-ind	Case=Nom|Definite=Ind	18	obj	_	_
-18	берген	бер	VERB	v.tv.gpr_past	Tense=Past|VerbForm=Part	19	acl	_	_
-19	тамак	тамак	NOUN	n.nom	Case=Nom	21	nsubj	_	_
-20	ресторандан	ресторан	NOUN	n.abl	Case=Abl	21	obl	_	_
-21	келмек	кел	VERB	v.iv.prc_pcond	_	5	conj	_	_
-22	болчу	бол	AUX	vaux.pih.p3.sg	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	SpaceAfter=No
-23	.	.	PUNCT	sent	_	5	punct	_	_
+9	ээси	ээ	NOUN	n.px3sp.nom	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	13	nsubj	_	_
+10	дагы	дагы	ADV	adv	_	13	advmod	_	_
+11	эле	эле	ADV	adv	_	10	fixed	_	_
+12	үйдү	үй	NOUN	n.acc	Case=Acc|Definite=Def	13	obj	_	_
+13	жыйнап	жыйна	VERB	v.tv.prc_perf	Aspect=Perf|VerbForm=Cov	5	conj	_	_
+14	жаткан	жат	AUX	vaux.past.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No
+15	,	,	PUNCT	cm	_	13	punct	_	_
+16	ал эми	ал эми	ADV	cnjadv	_	22	cc	_	_
+17	ал	ал	PRON	prn.pers.p3.sg.nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+18	буюртма	буюртма	NOUN	n.acc-ind	Case=Nom|Definite=Ind	19	obj	_	_
+19	берген	бер	VERB	v.tv.gpr_past	Tense=Past|VerbForm=Part	20	acl	_	_
+20	тамак	тамак	NOUN	n.nom	Case=Nom	22	nsubj	_	_
+21	ресторандан	ресторан	NOUN	n.abl	Case=Abl	22	obl	_	_
+22	келмек	кел	VERB	v.iv.prc_pcond	_	5	conj	_	_
+23	болчу	бол	AUX	vaux.pih.p3.sg	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	SpaceAfter=No
+24	.	.	PUNCT	sent	_	22	punct	_	_
 
 # sent_id = 4
 # text = Айша — доктур.
