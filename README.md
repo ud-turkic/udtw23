@@ -9,8 +9,8 @@ UD Turkic Workshop 2023 was held on September 8 in Istanbul, Turkey. This reposi
 ## Next meeting
 
 - Agenda:
-    - Working on the full paper for the workshop [MWE-UD 2024](https://multiword.org/mweud2024/) in LREC-COLING 2024 (deadline: Mar 3)
-- Date and time: Feb 24 at 19:00 (UTC+3, Istanbul time)
+    - Finishing and submitting the full paper for the workshop [MWE-UD 2024](https://multiword.org/mweud2024/) in LREC-COLING 2024 (deadline: Mar 3)
+- Date and time: Mar 1 at 19:00 (UTC+3, Istanbul time)
 - Place:
     - Zoom link: [zoom.us/j/94784185477](https://zoom.us/j/94784185477)
     - Meeting ID: 947 8418 5477
@@ -27,8 +27,6 @@ UD Turkic Workshop 2023 was held on September 8 in Istanbul, Turkey. This reposi
     - Gulnura Jumalieva
     - Aida Kasieva
     - Jonathan Washington
-- Old Turkish (SIL ISO 639-3: otk)
-    - Mehmet Oguz Derin
 - Sakha (Yakut)
     - Sardana Ivanova
     - Tatiana Merzhevich
