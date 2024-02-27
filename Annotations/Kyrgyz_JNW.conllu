@@ -16,7 +16,7 @@
 11-12	ашкананыкын	_	_	_	_	_	_	_	_
 11	ашкананы	ашкана	NOUN	n.gen	Case=Gen|Definite=Def	12	nmod:poss	_	SpaceAfter=No
 12	кын	_	NOUN	n.acc	Case=Acc|Definite=Def	13	obj	_	SpaceAfter=No
-13	тазалабай	тазала	VERB	v.tv.neg.prc_perf	Aspect=Perf|Polarity=Neg|VerbForm=Cov	0	root	_	_
+13	тазалабай	тазала	VERB	v.tv.neg.prc_perf	Aspect=Perf|Polarity=Neg|VerbForm=Inf	0	root	_	_
 14	коюптур	кой	AUX	vaux.ifi.evid.p3.sg	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No
 15	.	.	PUNCT	sent	_	13	punct	_	_
 
@@ -57,18 +57,19 @@
 10	дагы	дагы	ADV	adv	_	13	advmod	_	_
 11	эле	эле	ADV	adv	_	10	fixed	_	_
 12	үйдү	үй	NOUN	n.acc	Case=Acc|Definite=Def	13	obj	_	_
-13	жыйнап	жыйна	VERB	v.tv.prc_perf	Aspect=Perf|VerbForm=Cov	5	conj	_	_
+13	жыйнап	жыйна	VERB	v.tv.prc_perf	Aspect=Perf|VerbForm=Inf	5	conj	_	_
 14	жаткан	жат	AUX	vaux.past.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	SpaceAfter=No
 15	,	,	PUNCT	cm	_	13	punct	_	_
-16	ал эми	ал эми	ADV	cnjadv	_	22	cc	_	_
-17	ал	ал	PRON	prn.pers.p3.sg.nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
-18	буюртма	буюртма	NOUN	n.acc-ind	Case=Nom|Definite=Ind	19	obj	_	_
-19	берген	бер	VERB	v.tv.gpr_past	Tense=Past|VerbForm=Part	20	acl	_	_
-20	тамак	тамак	NOUN	n.nom	Case=Nom	22	nsubj	_	_
-21	ресторандан	ресторан	NOUN	n.abl	Case=Abl	22	obl	_	_
-22	келмек	кел	VERB	v.iv.prc_pcond	_	5	conj	_	_
-23	болчу	бол	AUX	vaux.pih.p3.sg	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	SpaceAfter=No
-24	.	.	PUNCT	sent	_	22	punct	_	_
+16	ал	а	CCONJ	cnjcoo	_	23	cc	_	_
+17	эми	эми	ADV	adv	_	16	fixed	_	_
+18	ал	ал	PRON	prn.pers.p3.sg.nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+19	буюртма	буюртма	NOUN	n.acc-ind	Case=Nom|Definite=Ind	20	obj	_	_
+20	берген	бер	VERB	v.tv.gpr_past	Tense=Past|VerbForm=Part	21	acl	_	_
+21	тамак	тамак	NOUN	n.nom	Case=Nom	23	nsubj	_	_
+22	ресторандан	ресторан	NOUN	n.abl	Case=Abl	23	obl	_	_
+23	келмек	кел	VERB	v.iv.prc_pcond	_	5	conj	_	_
+24	болчу	бол	AUX	vaux.pih.p3.sg	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	SpaceAfter=No
+25	.	.	PUNCT	sent	_	23	punct	_	_
 
 # sent_id = 4
 # text = Айша — доктур.
@@ -165,7 +166,7 @@
 2	доктур	доктур	NOUN	n.nom	Case=Nom	3	xcomp	_	_
 3	болот	бол	VERB	v.iv.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	cm	_	3	punct	_	_
-5	билип	бил	VERB	v.iv.prc_perf	Aspect=Perf|VerbForm=Cov	3	parataxis	_	_
+5	билип	бил	VERB	v.iv.prc_perf	Aspect=Perf|VerbForm=Inf	3	parataxis	_	_
 6	кой	кой	AUX	vaux.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	aux	_	SpaceAfter=No
 7	!	!	PUNCT	sent	_	5	punct	_	_
 
@@ -174,7 +175,7 @@
 # text[en] = Deniz had fallen asleep.
 # issues = multiword_token analytic_verb_form be_aux
 1	Дениз	Дениз	PROPN	np.ant.mf.nom	Case=Nom	2	nsubj	_	_
-2	уктап	укта	VERB	v.iv.prc_perf	Aspect=Perf|VerbForm=Cov	0	root	_	_
+2	уктап	укта	VERB	v.iv.prc_perf	Aspect=Perf|VerbForm=Inf	0	root	_	_
 3	калган эле	кал	AUX	vaux.plu.ifi.p3.sg	Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past|Tense=Pqp|VerbForm=Fin	2	aux	_	SpaceAfter=No
 4	.	.	PUNCT	sent	_	2	punct	_	_
 
@@ -183,9 +184,9 @@
 # text[en] = When it was being announced that there would be a meeting they must've been so surprised that they were left looking at me.
 # issues = multiword_token compound WEIRD(окшойт)
 1	Чогулуш	чогулуш	NOUN	n.nom	Case=Nom	2	nsubj	_	_
-2	боло	бол	VERB	v.iv.prc_impf	Aspect=Imp|VerbForm=Cov	4	csubj	_	_
+2	боло	бол	VERB	v.iv.prc_impf	Aspect=Imp|VerbForm=Inf	4	csubj	_	_
 3	тургандыгы	тур	AUX	vaux.ger_perf.px3sp.nom	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	2	aux	_	_
-4	айтылып	айт	VERB	v.tv.pass.prc_perf	Aspect=Perf|VerbForm=Cov|Voice=Pass	6	acl	_	_
+4	айтылып	айт	VERB	v.tv.pass.prc_perf	Aspect=Perf|VerbForm=Inf|Voice=Pass	6	acl	_	_
 5	жаткан	жат	AUX	vaux.gpr_past	Tense=Past|VerbForm=Part	4	aux	_	_
 6	учурда	учур	NOUN	n.loc	Case=Loc	10	obl	_	SpaceAfter=No
 7	,	,	PUNCT	cm	_	6	punct	_	_
@@ -249,7 +250,7 @@
 1	Айша	Айша	PROPN	np.ant.f.nom	Case=Nom|Gender=Fem	4	nsubj	_	_
 2	бул	бул	DET	det.dem	PronType=Dem	3	det	_	_
 3	китепти	китеп	NOUN	n.acc	Case=Acc|Definite=Def	4	obj	_	_
-4	окубай	оку	VERB	v.tv.neg.prc_perf	Aspect=Perf|Polarity=Neg|VerbForm=Cov	0	root	_	_
+4	окубай	оку	VERB	v.tv.neg.prc_perf	Aspect=Perf|Polarity=Neg|VerbForm=Inf	0	root	_	_
 5	койгон жок	кой	AUX	vaux.neg.ifi.p3.sg	Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	sent	_	4	punct	_	_
 
@@ -278,12 +279,12 @@
 3	дары	_	NOUN	n.pl.px3sp.nom	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	8	conj	_	_
 4	эмес	эмес	ADV	postadv	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	cm	_	3	punct	_	_
-6	окуй	оку	VERB	v.iv.prc_impf	Aspect=Imp|VerbForm=Cov	8	acl	_	_
+6	окуй	оку	VERB	v.iv.prc_impf	Aspect=Imp|VerbForm=Inf	8	acl	_	_
 7-8	тургандары	_	_	_	_	_	_	_	_
 7	турган	тур	AUX	vaux.gpr_past	Tense=Past|VerbForm=Part	6	aux	_	SpaceAfter=No
 8	дары	_	NOUN	n.pl.px3sp.nom	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	10	obl	_	_
 9	тууралуу	тууралуу	ADP	post	_	8	case	_	_
-10	айтып	айт	VERB	v.iv.prc_perf	Aspect=Perf|VerbForm=Cov	0	root	_	_
+10	айтып	айт	VERB	v.iv.prc_perf	Aspect=Perf|VerbForm=Inf	0	root	_	_
 11	жатат	жат	AUX	vaux.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	10	punct	_	_
 
@@ -300,7 +301,7 @@
 6	,	,	PUNCT	cm	_	3	punct	_	_
 7	мага	мен	PRON	prn.pers.p1.sg.dat	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
 8	көгүн	көк	ADJ	adj.subst.px3sp.acc	Case=Acc|Definite=Def|Number[psor]=Plur,Sing|Person[psor]=3	9	obj	_	_
-9	берип	бер	VERB	v.tv.prc_perf	Aspect=Perf|VerbForm=Cov	3	parataxis	_	_
+9	берип	бер	VERB	v.tv.prc_perf	Aspect=Perf|VerbForm=Inf	3	parataxis	_	_
 10-11	коёсуңбу	_	_	_	_	_	_	_	_
 10	коёсуң	кой	AUX	vaux.aor.p2.sg	Mood=Ind|Number=Sing|Person=2|Tense=Aor|VerbForm=Fin	9	aux	_	SpaceAfter=No
 11	бу	бы	PART	qst	_	9	discourse	_	SpaceAfter=No
