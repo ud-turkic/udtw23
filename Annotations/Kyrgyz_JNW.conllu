@@ -21,30 +21,32 @@
 15	.	.	PUNCT	sent	_	13	punct	_	_
 
 # sent_id = 2
-# text = Мен сага дайыма айтам, күндө эртең менен досуң менен телефондо сүйлөшкөндө мен жөнүндө сөз кылба.
-# text[en] = I always tell you, when you talk with your friend on the phone in the morning, don't talk about me.
+# text = Мен сага муну дайыма айтам, күндө эртең менен досуң менен телефондо сүйлөшкөндө мен жөнүндө сөз кылба.
+# text[en] = I always tell you this, when you talk with your friend on the phone every day in the morning, don't talk about me.
+# issues = compound_or_obj
 1	Мен	мен	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	сага	сен	PRON	prn.pers.p2.sg.dat	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
-3	дайыма	дайыма	ADV	adv	_	4	advmod	_	_
-4	айтам	айт	VERB	v.iv.aor.p1.sg	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	cm	_	4	punct	_	_
-6	күндө	күн	NOUN	n.loc	Case=Loc	12	obl	_	_
-7	эртең	эртең	ADV	adv	_	12	advmod	_	_
-8	менен	менен	ADP	post	_	7	fixed	_	_
-9	досуң	дос	NOUN	n.px2sg.nom	Case=Nom|Number[psor]=Sing|Person[psor]=2	12	obl	_	_
-10	менен	менен	CCONJ	cnjcoo	_	9	case	_	_
-11	телефондо	телефон	NOUN	n.loc	Case=Loc	12	obl	_	_
-12	сүйлөшкөндө	сүйлө	VERB	v.iv.coop.ger_past.loc	Case=Loc|Tense=Past|VerbForm=Ger|Voice=Coop	16	advcl	_	_
-13	мен	мен	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
-14	жөнүндө	жөнүндө	ADP	post	_	13	case	_	_
-15	сөз	сөз	NOUN	n.acc-ind	Case=Nom|Definite=Ind	16	compound:lvc	_	_
-16	кылба	кыл	VERB	v.tv.neg.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	4	ccomp	_	SpaceAfter=No
-17	.	.	PUNCT	sent	_	4	punct	_	_
+3	муну	бул	PRON	prn.dem.acc	Case=Acc|Definite=Def|PronType=Dem	4	obj	_	_
+4	дайыма	дайыма	ADV	adv	_	5	advmod	_	_
+5	айтам	айт	VERB	v.iv.aor.p1.sg	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	cm	_	5	punct	_	_
+7	күндө	күн	NOUN	n.loc	Case=Loc	13	obl	_	_
+8	эртең	эртең	ADV	adv	_	13	advmod	_	_
+9	менен	менен	ADP	post	_	8	fixed	_	_
+10	досуң	дос	NOUN	n.px2sg.nom	Case=Nom|Number[psor]=Sing|Person[psor]=2	13	obl	_	_
+11	менен	менен	CCONJ	cnjcoo	_	10	case	_	_
+12	телефондо	телефон	NOUN	n.loc	Case=Loc	13	obl	_	_
+13	сүйлөшкөндө	сүйлө	VERB	v.iv.coop.ger_past.loc	Case=Loc|Tense=Past|VerbForm=Ger|Voice=Coop	17	advcl	_	_
+14	мен	мен	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	obl	_	_
+15	жөнүндө	жөнүндө	ADP	post	_	14	case	_	_
+16	сөз	сөз	NOUN	n.acc-ind	Case=Nom|Definite=Ind	17	compound:lvc	_	_
+17	кылба	кыл	VERB	v.tv.neg.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	5	ccomp	_	SpaceAfter=No
+18	.	.	PUNCT	sent	_	5	punct	_	_
 
 # sent_id = 3
 # text = Түнөп калчу конок эшикти такылдатыптыр, бирок үйдүн ээси дагы эле үйдү жыйнап жаткан, ал эми ал буюртма берген тамак ресторандан келмек болчу.
-# text[en] = The guest that was going to stay for the night knocked on the door, but the owner of the house was still cleaning, and the food he had ordered was still coming from the restaurant.
-# issues = multiword_token be_aux
+# text[en] = The guest that was going to stay for the night knocked on the door, but the owner of the house was still cleaning, and the food he had ordered from the restaurant was still coming.
+# issues = compound_or_obj be_aux
 1	Түнөп	түнө	VERB	v.iv.gna_perf	Aspect=Perf|VerbForm=Conv	2	advcl	_	_
 2	калчу	кал	VERB	v.iv.gpr_hab	_	3	acl	_	_
 3	конок	конок	NOUN	n.nom	Case=Nom	5	nsubj	_	_
@@ -63,10 +65,10 @@
 16	ал	а	CCONJ	cnjcoo	_	23	cc	_	_
 17	эми	эми	ADV	adv	_	16	fixed	_	_
 18	ал	ал	PRON	prn.pers.p3.sg.nom	Case=Nom|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
-19	буюртма	буюртма	NOUN	n.acc-ind	Case=Nom|Definite=Ind	20	obj	_	_
-20	берген	бер	VERB	v.tv.gpr_past	Tense=Past|VerbForm=Part	21	acl	_	_
-21	тамак	тамак	NOUN	n.nom	Case=Nom	23	nsubj	_	_
-22	ресторандан	ресторан	NOUN	n.abl	Case=Abl	23	obl	_	_
+19	ресторандан	ресторан	NOUN	n.abl	Case=Abl	20	obl	_	_
+20	буюртма	буюртма	NOUN	n.acc-ind	Case=Nom|Definite=Ind	21	obj	_	_
+21	берген	бер	VERB	v.tv.gpr_past	Tense=Past|VerbForm=Part	22	acl	_	_
+22	тамак	тамак	NOUN	n.nom	Case=Nom	23	nsubj	_	_
 23	келмек	кел	VERB	v.iv.prc_pcond	_	5	conj	_	_
 24	болчу	бол	AUX	vaux.pih.p3.sg	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	SpaceAfter=No
 25	.	.	PUNCT	sent	_	23	punct	_	_
