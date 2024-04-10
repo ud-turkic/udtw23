@@ -8,7 +8,7 @@ UD Turkic Workshop 2023 was held on September 8 in Istanbul, Turkey. This reposi
 
 ## Next meeting
 
-- Date and time: Apr 5 2024, Friday at 15:00 (UTC+3)
+- Date and time: Apr 12 2024, Friday at 16:00 (UTC+3)
 - Place:
     - Zoom link: [zoom.us/j/94784185477](https://zoom.us/j/94784185477)
     - Meeting ID: 947 8418 5477
