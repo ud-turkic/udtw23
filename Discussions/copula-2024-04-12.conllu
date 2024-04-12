@@ -1,0 +1,58 @@
+1	Annem	_	NOUN	_	_	2	nsubj	_	_
+2	evde	_	NOUN	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	2	punct	_	_
+
+1	Annem	_	NOUN	_	_	2	nsubj	_	_
+2-3	evdeydi	_	_	_	_	_	_	_	_
+2	evde	_	NOUN	_	_	0	root	_	_
+3	ydi	_	AUX	_	_	2	cop	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+1	Ben	_	PRON	_	_	2	nsubj	_	_
+2-3	evdeydim	_	_	_	_	_	_	_	_
+2	evde	_	NOUN	_	_	0	root	_	_
+3	ydim	_	AUX	_	_	2	cop	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+1	Ben	_	PRON	_	_	2	nsubj	_	_
+2	evde	_	NOUN	_	_	0	root	_	_
+3	idim	_	AUX	_	_	2	cop	_	_
+4	.	_	PUNCT	_	_	2	punct	_	_
+
+1	Telefon	_	NOUN	_	_	2	compound:lvc	_	_
+2	eden	_	VERB	_	_	3	csubj	_	_
+3-4	bendim	_	_	_	_	_	_	_	_
+3	ben	_	PRON	_	_	0	root	_	_
+4	dim	_	AUX	_	_	3	cop	_	_
+5	.	_	_	_	_	_	_	_	_
+
+1	Annem	_	NOUN	_	_	2	nsubj	_	_
+2	doktor	_	NOUN	_	_	0	root	_	_
+3	.	_	_	_	_	_	_	_	_
+
+1	Biz	_	_	_	_	_	_	_	_
+2	doktorlar	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+1	Ben	_	PRON	_	_	2	nsubj	_	_
+2-3	oydum	_	_	_	_	_	_	_	_
+2	o	_	PRON	_	_	0	root	_	_
+3	ydum	_	AUX	_	_	2	cop	_	_
+4	.	_	_	_	_	_	_	_	_
+
+1	Sorun	_	_	_	_	3	nsubj	_	_
+2	Ali'nin	_	_	_	_	3	nmod:poss	_	_
+3	gelmemesiydi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+1-2	Arkadaşımsın	_	_	_	_	_	_	_	_
+1	Arkadaşım	_	NOUN	_	_	0	root	_	_
+2	sın	_	AUX	_	_	1	cop	_	_
+
+1	Ali	_	_	_	_	_	_	_	_
+2-3	gelmemişti	_	_	_	_	_	_	_	_
+2	gelmemiş	_	_	_	_	0	root	_	_
+3	ti	_	AUX	_	_	2	aux	_	_
+
+1	Али	_	_	_	_	_	_	_	_
+2	келген жок экен	_	_	_	_	0	root	_	_
