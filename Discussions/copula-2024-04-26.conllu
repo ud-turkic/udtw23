@@ -1,21 +1,37 @@
-үйдө экенимди билдиң
+1	үйдө	_	NOUN	_	_	3	ccomp	_	_
+2	экенимди	_	AUX	_	_	1	cop	_	_
+3	билдиң	_	VERB	_	_	0	root	_	_
 
-үйдө болгонумду билдиң
+1	үйдө	_	NOUN	_	_	2	xcomp/obl	_	_
+2	болгонумду	_	VERB	_	_	3	ccomp	_	_
+3	билдиң	_	VERB	_	_	0	root	_	_
 
-үйдө элем
+1	үйдө	_	NOUN	_	_	0	root	_	_
+2	элем	_	AUX	_	_	1	cop	_	_
 
-үйдө болдум
+1	үйдө	_	NOUN	_	_	2	xcomp/obl	_	_
+2	болдум	_	VERB	_	_	0	root	_	_
 
-айтпайт болчумун
+1	айтпайт	_	VERB	_	_	0	root	_	_
+2	болчумун	_	AUX	_	_	1	aux	_	_
 
-жакшы болду
+1	жакшы	_	ADJ	_	_	2	xcomp	_	_
+2	болду	_	VERB	_	_	0	root	_	_
 
-güzel olur du
+1	güzel	_	ADJ	_	_	0	root	_	_
+2-3	olurdu	_	_	_	_	_	_	_	_
+2	olur	ol	AUX	_	_	1	aux	_	_
+3	du	i	AUX	_	_	1	aux	_	_
 
-güzel oldu
+1	güzel	_	ADJ	_	_	2	xcomp	_	_
+2	oldu	_	VERB	_	_	0	root	_	_
 
-güzel idi
+1	güzel	_	ADJ	_	_	0	root	_	_
+2	idi	_	AUX	_	_	1	cop	_	_
 
-güzel dir
+1-2	güzeldir	_	_	_	_	_	_	_	_
+1	güzel	_	ADJ	_	_	0	root	_	_
+2	dir	_	AUX	_	_	1	cop	_	_
 
-güzel olur
+1	güzel	_	ADJ	_	_	2	xcomp	_	_
+2	olur	_	VERB	_	_	0	root	_	_
