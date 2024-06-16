@@ -1,0 +1,29 @@
+# sent_id = 2
+# text = Мин эйиэхэ маны наар этэбин, күн аайы доҕоргун кытта сарсыарда телефонунан кэпсэттэххинэ, мин туспунан кэсэтимэн.
+# text[en] = I always tell you this, when you talk with your friend on the phone every day in the morning, don't talk about me.
+1	Мин	мин	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+2	эйиэхэ	эн	PRON	prn.pers.p2.sg.dat	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	obl	5:obl	_
+3	маны	бу	PRON	prn.dem.acc	Case=Acc|Definite=Def|PronType=Dem	5	obj	5:obj	_
+4	наар	наар	ADV	adv	_	5	advmod	5:advmod	_
+5	этэбин	эт	VERB	v.iv.aor.p1.sg	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+6	,	,	PUNCT	cm	_	5	punct	5:punct	_
+7	күн	күн	NOUN	n.nom	Case=Nom	13	obl	13:obl	_
+8	аайы аайы	ADP	post	_	7	fixed	7:fixed	_
+9	сарсыарда	сарсыарда	ADV	adv	_	13	advmod	13:advmod	_
+10	доҕоргун	доҕор	NOUN	n.px2sg.nom	Case=Nom|Number[psor]=Sing|Person[psor]=2	13	obl	13:obl	_
+11	кытта	кытта	 ADP	 post	_	10	fixed	10:fixed	_
+12	телефонунан	телефон	NOUN	n.ins	Case=Ins	13	obl	13:obl	_
+13	кэпсэттэххинэ	кэпсэт	VERB	v.iv.coop.ger_past.loc	Case=Loc|Tense=Past|VerbForm=Ger|Voice=Coop	16	advcl	16:advcl	_
+14	мин	ммн	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	obl	16:obl	_
+15	туспунан	туспунан	ADP	post	_	14	case	14:case	_
+16	кэпсэтимэ кэпсээ	VERB	v.tv.neg.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	5	ccomp	5:ccomp	SpaceAfter=No
+17	.	.	PUNCT	sent	_	5	punct	5:punct	_
+
+# sent_id = 4
+# text = Айша — доктор.
+# text[en] = Ayşe is a doctor.
+1	Айша	Айша	PROPN	np.ant.f.nom	Case=Nom|Gender=Fem	3	nsubj	3:nsubj	_
+2	—	—	PUNCT	guio	_	1	punct	1:punct	_
+3	доктор	доктор	NOUN	n.nom	Case=Nom	0	root	0:root	SpaceAfter=No
+3.1	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	_	_	3:cop	SpaceAfter=No
+4	.	.	PUNCT	sent	_	3	punct	3:punct	_
