@@ -11,11 +11,11 @@
 8	сарсыарда	сарсыарда	ADV	adv	_	13	advmod	_	_
 9	аайы	аайы	ADP	post	_	8	fixed	_	_
 10	доҕоргун	доҕор	NOUN	n.px2sg.nom	Case=Nom|Number[psor]=Sing|Person[psor]=2	13	obl	_	_
-11	кытта	кытта	 ADP	 post	_	10	fixed	_	_
+11	кытта	кытта	ADP	 post	_	10	case	_	_
 12	телефонунан	телефон	NOUN	n.ins	Case=Ins	13	obl	_	_
 13	кэпсэттэххинэ	кэпсэт	VERB	v.iv.coop.ger_past.loc	Case=Loc|Tense=Past|VerbForm=Ger|Voice=Coop	16	advcl	_	_
-14	мин	мин	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	obl	_	_
-15	туспунан	туспунан	ADP	post	_	14	case	_	_
+14	мин	мин	PRON	prn.pers.p1.sg.nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nmod:poss	_	_
+15	туспунан	тус	NOUN	nmod	_	16	case	_	_
 16	кэпсэтимэ	кэпсээ	VERB	v.tv.neg.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	5	ccomp	_	SpaceAfter=No
 17	.	.	PUNCT	sent	_	5	punct	_	_
 
@@ -27,3 +27,53 @@
 3	доктор	доктор	NOUN	n.nom	Case=Nom	0	root	0:root	SpaceAfter=No
 3.1	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	_	_	3:cop	SpaceAfter=No
 4	.	.	PUNCT	sent	_	3	punct	3:punct	_
+
+# sent_id = 6
+# text = Кинилэр эбээлэрэ медсестра этэ
+# text[en] = Their grandmother was a nurse.
+1	Кинилэр	кини	PRON	prn.pers.p3.sg.gen	Case=Gen|Definite=Def|Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
+2	эбээлэрэ	эбээ	NOUN	n.px3sp.nom	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	3	nsubj	_	_
+3	медсестра	медсестра	NOUN	n.nom	Case=Nom	0	root	_	_
+4	этэ	э	AUX	cop.ifi.p3.sg	Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	SpaceAfter=No
+5	.	.	PUNCT	sent	_	3	punct	_	_
+
+# sent_id = 7
+# text = Сөп, оччоҕуна полкаҕа баар кинигэлэр ханна баар этилэрий?
+# text[en] = Okay, then where are/were the ones on the bookshelf?
+1	Сөп	Сөп	INTJ	ij	_	8	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	cm	_	8	punct	_	_
+3	оччоҕуна	оччоҕуна	ADV	adv	_	8	advmod	_	_
+4	полкаҕа	полка	NOUN	n.px3sg.loc.attr	Case=Loc|Case=Nom|Number[psor]=Sing|Person[psor]=3	5	nmod:obl	_	SpaceAfter=No
+5	баар	баар	ADJ	adj 7	nsubj	6	_	_	_
+6	кинигэлэр	кинигэ	NOUN	n.pl.nom Case=Nom|Number=Plural	 nsubj 5	8	nsubj	_	_
+7	ханна	ханна	ADV	adv	_	8	advmod	_	_
+8	баар	баар	VERB	v.tv.imp.p2.sg	_	0	root	_	_
+9	этилэр	этилэр	AUX	cop.ifi.p3.pl	Evident=Fh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	SpaceAfter=No
+10	?	?	PUNCT	sent	_	8	punct	_	_
+
+# sent_id = 9
+# text = Маҕаһыыҥҥа фрутка баар, ол гынан баран үчүгэйэ суох.
+# text[en] = There's fruit at the store, but it's not nice.
+1	Маҕаһыыҥҥа	маҕаһыын	NOUN	n.loc	Case=Loc	3	obl	_	_
+2	фрутка	фрукта	NOUN	n.nom	Case=Nom	3	nsubj	_	_
+3-4	баар	_	_	_	_	_	_	_	_
+3	баар	баар	ADJ	adj	_	0	root	_	SpaceAfter=No
+4	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	3	cop	_	SpaceAfter=No
+5	,	,	PUNCT	cm	_	3	punct	_	_
+6	ол гынан баран	ол гынан баран	ADV	cnjadv	_	7	cc	_	_
+7	үчүгэйэ	үчүгэй	ADJ	adj	_	3	conj	_	_
+8-9	суох	_	_	_	_	_	_	_	_
+8	суох	суох	ADV	adv	_	7	advmod	_	SpaceAfter=No
+9	_	э	AUX	cop.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	7	cop	_	SpaceAfter=No
+10	.	.	PUNCT	sent	_	3	punct	_	_
+
+# sent_id = 10
+# text = Дениз доктор буолуо, ону бил!
+# text[en] = Deniz will be a doctor, know this!
+1	Дениз	Дениз	PROPN	np.ant.mf.nom	Case=Nom	3	nsubj	_	_
+2	доктор	доктор	NOUN	n.nom	Case=Nom	3	xcomp	_	_
+3	буолуо	буол	VERB	v.iv.aor.p3.sg	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	cm	_	3	punct	_	_
+5	бил	бил	VERB	v.iv.prc_perf	Aspect=Perf|VerbForm=Inf	3	parataxis	_	_
+6	ону	ол	AUX	vaux.imp.p2.sg	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	aux	_	SpaceAfter=No
+7	!	!	PUNCT	sent	_	5	punct	_	_
