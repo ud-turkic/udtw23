@@ -6,10 +6,6 @@ UD Turkic Workshop 2023 was held on September 8 in Istanbul, Turkey. This reposi
 
 - Finishing the annotation of the 20~ sentences and pushing to this repository
 
-## Meeting related
-
-- Zoom link: [zoom.us/j/94784185477](https://zoom.us/j/94784185477) (Passcode: 985109)
-
 ## Language list with corresponding contributors
 
 - Azerbaijani
