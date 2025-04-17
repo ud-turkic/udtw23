@@ -21,9 +21,6 @@ Other topics, new treebanks for Turkic languages,
 (linguistic) research done on the treebanks,
 and other use of treebanks for research and practical applications, are welcome.
 
-The workshop is supported by the
-[UniDive COST action project](https://www.cost.eu/actions/CA21167/).
-
 For the afternoon discussions, we have prepared a list of Turkish sentences, considering the current treebanks and their issues. The set of Turkish sentences that demonstrate various issues raised by the participants with glosses and English translations can be found [here](sentences.pdf). We intend to work on the translations or similar sentences demonstrating these issues in other Turkic languages during the workshop. You can find the _conllu_ file of the Turkish sentences [here](ws-sents-tr.conllu). For reference, also they are in [this page](sents) in plain text. If possible, we will also prepare a list of sentences for other Turkic languages, based on translations and their particular issues. We will discuss the issues in the sentences, and try to come up with solutions. Other sentences and translations are very much welcome.
 
 ## Call for abstracts
@@ -100,3 +97,13 @@ Friday, 8 September
 - [Furkan Akkurt](https://furkanakkurt1335.github.io/), [Boğaziçi University](https://boun.edu.tr/)
 
 Contact point for questions / help: <tt>[udtw-organisers@googlegroups.com](mailto:udtw-organisers@googlegroups.com)</tt>
+
+## Support
+
+This workshop is supported by [COST action CA21167](https://www.cost.eu/actions/CA21167/): Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/logos/UniDive.png" alt="UniDive logo" style="max-width: 100px; height: auto;">
+  <img src="assets/logos/COST.jpg" alt="COST logo" style="max-width: 100px; height: auto;">
+  <img src="assets/logos/Horizon_Europe.png" alt="Horizon Europe logo" style="max-width: 100px; height: auto;">
+</div>
