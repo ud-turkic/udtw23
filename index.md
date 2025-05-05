@@ -100,7 +100,7 @@ Contact point for questions / help: <tt>[udtw-organisers@googlegroups.com](mailt
 
 ## Support
 
-This workshop is supported by [COST action CA21167](https://www.cost.eu/actions/CA21167/): Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
+This workshop is co-organized by [COST action CA21167](https://www.cost.eu/actions/CA21167/): Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
 
 <div style="display: flex; justify-content: space-around;">
   <img src="assets/logos/UniDive.png" alt="UniDive logo" style="max-width: 100px; height: auto;">
